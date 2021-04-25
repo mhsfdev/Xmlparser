@@ -13,34 +13,36 @@ def print_dict(dicto,n=10):
 
  # data file 
 """
-  prerobit parserA na feedy heureka, aby sa zabezpecila kompatibilita
+  vytvorit logovacie subory / chyby - chybaj[ce id, ean , stavy
+  ]
 """
 
-xmlfeed_produkty = urlopen('https://www.jozanek.cz/Services/Feed.ashx?type=googleNakupy.cz&key=uiroTARO68bl')
+xmlfeed_produkty = urlopen('https://www.jozanek.cz/Services/Feed.ashx?type=heureka.cz&key=uiroTARO68bl')
 xmlfeed_stock = urlopen('https://www.jozanek.cz/Services/Feed.ashx?type=heureka.cz&key=uiroTARO68bl&avail=1')
     
 mytree = ET.parse(xmlfeed_produkty)
 myroot = mytree.getroot()
 
 product_list = {}
-ns = {'BEG':"http://base.google.com/ns/1.0"} # namespace of the feed
+
 product_list['product id']=(['EAN;name','price in CZK','# on stock']) # headeer
 
 #stiahni product list
-for item in myroot[0].findall('item'):
+for shopitem in myroot.findall('SHOPITEM'):
         
-    available = True if item.find('BEG:availability',ns).text == 'in stock' else False
+    available = True 
     if available : # writing only item on stock
-        product_id = item.find('BEG:id', ns).text
+        product_id = shopitem.find('ITEM_ID').text
         
-        ean = item.find('BEG:gtin',ns).text if item.find('BEG:gtin',ns) != None else 'None'
+        ean = shopitem.find('EAN').text if shopitem.find('EAN') != None else 'None'
         
-        name = item.find('title').text
-        price = item.find('BEG:price',ns).text
+        name = shopitem.find('PRODUCTNAME').text
+        price = shopitem.find('PRICE_VAT').text
         #picture = item.find('g:image_link').text
-        stock = item.find('BEG:availability',ns).text
+        
             
         product_list[product_id]=[ean, name, price]
+        
 
 # stiahni stav skladu
 mytree = ET.parse(xmlfeed_stock)
@@ -48,10 +50,18 @@ myroot = mytree.getroot()
 
 for item in myroot.findall('item'):
     product_id = item.attrib['id']
-    pcs_on_stock = item.find('stock_quantity').text
-    new_item = product_list[product_id]
-    new_item.append(150)
-    product_list[product_id]=new_item
+    if item.find('stock_quantity') != None:
+        pcs_on_stock = item.find('stock_quantity').text  
+    else:
+        continue
+    if product_list.get(product_id) != None:
+
+        item_to_update = product_list.get(product_id)  
+    else :
+        print(f'product with id{product_id} is not in product feed')
+        continue
+    item_to_update.append(pcs_on_stock)
+    product_list[product_id] = item_to_update 
 
 try :
     csv = open(file='datatest.csv', mode='w')
