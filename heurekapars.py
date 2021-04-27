@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 from urllib.request import urlopen 
 from time import asctime
 import csv
+from pprint import pprint as pp
 
 def print_dict(dicto,n=30):
     counter = 0
@@ -18,7 +19,7 @@ def write_to_file(data, filename):
         raise TypeError
     
     try :
-        f = open(file=filename, mode='wt')
+        f = open(file=filename, mode='wt',encoding='utf-8')
         for key, value in data.items():
             line = str(key)+';'
             line += ';'.join(value)
@@ -34,11 +35,11 @@ def read_file(): # reads last feed log into dictionary
     
     dicto = {}
     feed = open(file='data.csv', mode ='r', encoding = 'utf-8')
-    csv_reader = csv.reader(feed)
+    csv_reader = csv.reader(feed, delimiter = ';' )
     
 
     for row in csv_reader:
-        key = row[0]
+        key = str(row[0])
         value = [x for x in row[1:] ]
         dicto[key] = value
     feed.close()
@@ -55,7 +56,22 @@ def log(logdict,item_id, text):
         
         logdict[item_id] = item_to_update
         return
+
+def compare_pulls(previous, current):
+    new_items={}
+    new_items['new items as of:']= [asctime()]
+    for key in current.keys():
+        if str(key) not in previous:
+            new_items[key] = current.get(key)
+
+    missing_items={}
+    missing_items['missing items as of :']=[asctime()]
+    for key in previous.keys():
+        if str(key) not in current:
+            missing_items[key]=previous.get(key)
     
+    return new_items, missing_items
+
 
  # data file 
 
@@ -68,7 +84,7 @@ myroot = mytree.getroot()
 
 actual_pull = {}
 error_log = {}
-print_dict(read_file())
+
 
 actual_pull['product id']=(['EAN;name','price in CZK','# on stock']) # headeer
 error_log['log date'] = [asctime()]
@@ -78,7 +94,7 @@ for shopitem in myroot.findall('SHOPITEM'):
       
     available = True 
     if available : # writing only item on stock
-        product_id = shopitem.find('ITEM_ID').text
+        product_id = str(shopitem.find('ITEM_ID').text)
         
         if shopitem.find('EAN') != None:
 
@@ -101,7 +117,7 @@ myroot = mytree.getroot()
 
 for item in myroot.findall('item'):
     if item.attrib['id'] != None:
-        product_id = item.attrib['id']
+        product_id = str(item.attrib['id'])
         if item.find('stock_quantity') != None:
             pcs_on_stock = item.find('stock_quantity').text  
         else:
@@ -116,8 +132,17 @@ for item in myroot.findall('item'):
     item_to_update.append(pcs_on_stock)
     actual_pull[product_id] = item_to_update 
 
+previous_pull = read_file()
+new_items,run_out_items = compare_pulls(previous_pull, actual_pull)
 write_to_file(actual_pull,'data.csv')
 write_to_file(error_log,'errorlog.txt')
+
+print ('new items :', len(new_items)-1)
+print ('missing :', len(run_out_items)-1)
+print ('details in difflog.txt')
+
+write_to_file({**run_out_items,**new_items}, 'difflog.txt')
+
 
 
 
