@@ -1,0 +1,1046 @@
+log date;Tue Apr 27 14:30:53 2021
+14880;missing EAN
+14883;missing EAN
+14885;missing EAN
+14886;missing EAN
+14887;missing EAN
+14891;missing EAN
+14892;missing EAN
+14893;missing EAN
+14894;missing EAN
+14895;missing EAN
+14897;missing EAN
+14898;missing EAN
+14899;missing EAN
+14900;missing EAN
+14901;missing EAN
+14902;missing EAN
+14904;missing EAN
+14905;missing EAN
+14907;missing EAN
+14908;missing EAN
+14909;missing EAN
+14911;missing EAN
+14912;missing EAN
+14913;missing EAN
+14914;missing EAN
+14915;missing EAN
+14916;missing EAN
+14918;missing EAN
+14919;missing EAN
+14920;missing EAN
+14921;missing EAN
+14923;missing EAN
+14925;missing EAN
+14926;missing EAN
+14927;missing EAN
+14929;missing EAN
+14930;missing EAN
+14937;missing EAN
+14939;missing EAN
+14940;missing EAN
+14942;missing EAN
+14943;missing EAN
+14946;missing EAN
+14947;missing EAN
+14948;missing EAN
+14949;missing EAN
+14950;missing EAN
+14951;missing EAN
+14953;missing EAN
+14956;missing EAN
+14957;missing EAN
+14958;missing EAN
+14961;missing EAN
+14962;missing EAN
+14963;missing EAN
+14964;missing EAN
+14965;missing EAN
+14997;missing EAN
+14999;missing EAN;missing pcs on stock
+15000;missing EAN;missing pcs on stock
+15002;missing EAN;missing pcs on stock
+15003;missing EAN;missing pcs on stock
+15004;missing EAN;missing pcs on stock
+15005;missing EAN;missing pcs on stock
+15006;missing EAN;missing pcs on stock
+15007;missing EAN;missing pcs on stock
+15008;missing EAN;missing pcs on stock
+15009;missing EAN;missing pcs on stock
+15011;missing EAN;missing pcs on stock
+15012;missing EAN;missing pcs on stock
+15013;missing EAN;missing pcs on stock
+15014;missing EAN;missing pcs on stock
+15016;missing EAN;missing pcs on stock
+15017;missing EAN;missing pcs on stock
+15018;missing EAN;missing pcs on stock
+15461;missing EAN;missing pcs on stock
+15463;missing EAN;missing pcs on stock
+17128;missing EAN
+17136;missing EAN
+17137;missing EAN
+17138;missing EAN
+17139;missing EAN
+17140;missing EAN
+17141;missing EAN
+17142;missing EAN
+17144;missing EAN
+17145;missing EAN
+17148;missing EAN
+17152;missing EAN
+17153;missing EAN
+17156;missing EAN
+17157;missing EAN
+17158;missing EAN
+17159;missing EAN
+17160;missing EAN
+17161;missing EAN
+17163;missing EAN
+17164;missing EAN
+17165;missing EAN
+17167;missing EAN
+17168;missing EAN
+17169;missing EAN
+17170;missing EAN
+17171;missing EAN
+17172;missing EAN
+11393;not in product feed
+11471;not in product feed
+11777;not in product feed
+11822;not in product feed
+11849;not in product feed
+11853;not in product feed
+11880;not in product feed
+11909;not in product feed
+11914;not in product feed
+11933;not in product feed
+12167;not in product feed
+12623;missing pcs on stock
+12970;missing pcs on stock
+13252;missing pcs on stock
+13253;missing pcs on stock
+13254;missing pcs on stock
+13255;not in product feed
+13310;not in product feed
+13314;not in product feed
+13345;not in product feed
+13346;not in product feed
+13375;not in product feed
+13408;not in product feed
+13409;not in product feed
+13410;not in product feed
+13411;not in product feed
+13412;not in product feed
+13413;not in product feed
+13414;not in product feed
+13418;not in product feed
+13420;not in product feed
+13421;not in product feed
+13422;not in product feed
+13423;not in product feed
+13424;not in product feed
+13425;not in product feed
+13426;not in product feed
+13427;not in product feed
+13428;not in product feed
+13429;not in product feed
+13430;not in product feed
+13431;not in product feed
+13432;not in product feed
+13433;not in product feed
+13434;not in product feed
+13435;not in product feed
+13436;not in product feed
+13437;not in product feed
+13438;not in product feed
+13439;not in product feed
+13440;not in product feed
+13441;not in product feed
+13442;not in product feed
+13443;not in product feed
+13444;not in product feed
+13445;not in product feed
+13446;not in product feed
+13447;not in product feed
+13448;not in product feed
+13449;not in product feed
+13450;not in product feed
+13451;not in product feed
+13452;not in product feed
+13453;not in product feed
+13454;not in product feed
+13455;not in product feed
+13456;not in product feed
+13457;not in product feed
+13459;not in product feed
+13460;not in product feed
+13461;not in product feed
+13463;not in product feed
+13465;not in product feed
+13467;not in product feed
+13468;not in product feed
+13469;not in product feed
+13470;not in product feed
+13471;not in product feed
+13472;not in product feed
+13473;not in product feed
+13474;not in product feed
+13476;not in product feed
+13477;not in product feed
+13478;not in product feed
+13480;not in product feed
+13481;not in product feed
+13485;not in product feed
+13487;not in product feed
+13488;not in product feed
+13489;not in product feed
+13491;not in product feed
+13492;not in product feed
+13493;not in product feed
+13495;not in product feed
+13496;not in product feed
+13497;not in product feed
+13503;not in product feed
+13504;not in product feed
+13505;not in product feed
+13507;not in product feed
+13508;not in product feed
+13509;not in product feed
+13511;not in product feed
+13512;not in product feed
+13513;not in product feed
+13514;not in product feed
+13516;not in product feed
+13518;not in product feed
+13523;not in product feed
+13525;not in product feed
+13526;not in product feed
+13527;not in product feed
+13528;not in product feed
+13535;not in product feed
+13536;not in product feed
+13537;not in product feed
+13538;not in product feed
+13539;not in product feed
+13541;not in product feed
+13544;not in product feed
+13545;not in product feed
+13547;not in product feed
+13549;not in product feed
+13550;not in product feed
+13551;not in product feed
+13552;not in product feed
+13553;not in product feed
+13554;not in product feed
+13555;not in product feed
+13558;not in product feed
+13559;not in product feed
+13561;not in product feed
+13563;not in product feed
+13564;not in product feed
+13566;not in product feed
+13568;not in product feed
+13569;not in product feed
+13571;not in product feed
+13572;not in product feed
+13574;not in product feed
+13575;not in product feed
+13577;not in product feed
+13578;not in product feed
+13580;not in product feed
+13581;not in product feed
+13582;not in product feed
+13584;not in product feed
+13586;not in product feed
+13587;not in product feed
+13588;not in product feed
+13589;not in product feed
+13591;not in product feed
+13592;not in product feed
+13593;not in product feed
+13594;not in product feed
+13595;not in product feed
+13596;not in product feed
+13597;not in product feed
+13598;not in product feed
+13605;not in product feed
+13607;not in product feed
+13609;not in product feed
+13610;not in product feed
+13611;not in product feed
+13612;not in product feed
+13613;not in product feed
+13615;not in product feed
+13616;not in product feed
+13619;not in product feed
+13625;not in product feed
+13627;not in product feed
+13628;not in product feed
+13629;not in product feed
+13630;not in product feed
+13631;not in product feed
+13633;not in product feed
+13634;not in product feed
+13636;not in product feed
+13641;not in product feed
+13643;not in product feed
+13645;not in product feed
+13646;not in product feed
+13647;not in product feed
+13649;not in product feed
+13650;not in product feed
+13651;not in product feed
+13653;not in product feed
+13654;not in product feed
+13655;not in product feed
+13656;not in product feed
+13657;not in product feed
+13658;not in product feed
+13659;not in product feed
+13660;not in product feed
+13661;not in product feed
+13662;not in product feed
+13667;not in product feed
+13669;not in product feed
+13670;not in product feed
+13671;not in product feed
+13672;not in product feed
+13673;not in product feed
+13675;not in product feed
+13677;not in product feed
+13678;not in product feed
+13680;not in product feed
+13688;not in product feed
+13689;not in product feed
+13690;not in product feed
+13691;not in product feed
+13692;not in product feed
+13693;not in product feed
+13694;not in product feed
+13695;not in product feed
+13696;not in product feed
+13698;not in product feed
+13704;not in product feed
+13705;not in product feed
+13706;not in product feed
+13707;not in product feed
+13708;not in product feed
+13709;not in product feed
+13711;not in product feed
+13717;not in product feed
+13718;not in product feed
+13719;not in product feed
+13720;not in product feed
+13721;not in product feed
+13723;not in product feed
+13726;not in product feed
+13730;not in product feed
+13731;not in product feed
+13732;not in product feed
+13733;not in product feed
+13734;not in product feed
+13735;not in product feed
+13736;not in product feed
+13737;not in product feed
+13738;not in product feed
+13739;not in product feed
+13740;not in product feed
+13741;not in product feed
+13742;not in product feed
+13743;not in product feed
+13747;not in product feed
+13748;not in product feed
+13749;not in product feed
+13750;not in product feed
+13751;not in product feed
+13752;not in product feed
+13753;not in product feed
+13754;not in product feed
+13755;not in product feed
+13756;not in product feed
+13757;not in product feed
+13758;not in product feed
+13761;not in product feed
+13762;not in product feed
+13765;not in product feed
+13766;not in product feed
+13767;not in product feed
+13768;not in product feed
+13773;not in product feed
+13777;not in product feed
+13786;not in product feed
+13789;not in product feed
+13790;not in product feed
+13791;not in product feed
+13792;not in product feed
+13793;not in product feed
+13794;not in product feed
+13795;not in product feed
+13796;not in product feed
+13797;not in product feed
+13798;not in product feed
+13799;not in product feed
+13800;not in product feed
+13801;not in product feed
+13802;not in product feed
+13803;not in product feed
+13804;not in product feed
+13805;not in product feed
+13806;not in product feed
+13807;not in product feed
+13808;not in product feed
+13809;not in product feed
+13810;not in product feed
+13811;not in product feed
+13812;not in product feed
+13813;not in product feed
+13815;not in product feed
+13816;not in product feed
+13817;not in product feed
+13818;not in product feed
+13821;not in product feed
+13822;not in product feed
+13823;not in product feed
+13824;not in product feed
+13825;not in product feed
+13826;not in product feed
+13833;not in product feed
+13834;not in product feed
+13835;not in product feed
+13836;not in product feed
+13837;not in product feed
+13838;not in product feed
+13839;not in product feed
+13840;not in product feed
+13841;not in product feed
+13842;not in product feed
+13843;not in product feed
+13844;not in product feed
+13845;not in product feed
+13846;not in product feed
+13847;not in product feed
+13848;not in product feed
+13849;not in product feed
+13850;not in product feed
+13852;not in product feed
+13853;not in product feed
+13854;not in product feed
+13855;not in product feed
+13856;not in product feed
+13858;not in product feed
+13859;not in product feed
+13860;not in product feed
+13861;not in product feed
+13862;not in product feed
+13863;not in product feed
+13864;not in product feed
+13865;not in product feed
+13866;not in product feed
+13867;not in product feed
+13870;not in product feed
+13872;not in product feed
+13873;not in product feed
+13874;not in product feed
+13875;not in product feed
+13876;not in product feed
+13877;not in product feed
+13878;not in product feed
+13879;not in product feed
+13880;not in product feed
+13881;not in product feed
+13882;not in product feed
+13885;not in product feed
+13892;not in product feed
+13894;not in product feed
+13896;not in product feed
+13897;not in product feed
+13898;not in product feed
+13899;not in product feed
+13900;not in product feed
+13901;not in product feed
+13902;not in product feed
+13903;not in product feed
+13904;not in product feed
+13905;not in product feed
+13906;not in product feed
+13907;not in product feed
+13908;not in product feed
+13909;not in product feed
+13910;not in product feed
+13911;not in product feed
+13912;not in product feed
+13913;not in product feed
+13914;not in product feed
+13915;not in product feed
+13916;not in product feed
+13917;not in product feed
+13918;not in product feed
+13919;not in product feed
+13920;not in product feed
+13921;not in product feed
+13922;not in product feed
+13923;not in product feed
+13925;not in product feed
+13926;not in product feed
+13927;not in product feed
+13929;not in product feed
+13930;not in product feed
+13931;not in product feed
+13932;not in product feed
+13933;not in product feed
+13934;not in product feed
+13935;not in product feed
+13936;not in product feed
+13937;not in product feed
+13938;not in product feed
+13939;not in product feed
+13940;not in product feed
+13941;not in product feed
+13943;not in product feed
+13944;not in product feed
+13946;not in product feed
+13947;not in product feed
+13948;not in product feed
+13949;not in product feed
+13950;not in product feed
+13951;not in product feed
+13952;not in product feed
+13953;not in product feed
+13955;not in product feed
+13956;not in product feed
+13957;not in product feed
+13958;not in product feed
+13959;not in product feed
+13960;not in product feed
+13961;not in product feed
+13962;not in product feed
+13963;not in product feed
+13964;not in product feed
+13965;not in product feed
+13966;not in product feed
+13967;not in product feed
+13968;not in product feed
+13969;not in product feed
+13970;not in product feed
+13971;not in product feed
+13972;not in product feed
+13973;not in product feed
+13974;not in product feed
+13978;not in product feed
+13980;not in product feed
+13982;not in product feed
+13983;not in product feed
+13989;not in product feed
+13995;not in product feed
+13996;not in product feed
+13997;not in product feed
+13998;not in product feed
+13999;not in product feed
+14000;not in product feed
+14001;not in product feed
+14003;not in product feed
+14004;not in product feed
+14006;not in product feed
+14009;not in product feed
+14011;not in product feed
+14012;not in product feed
+14014;not in product feed
+14015;not in product feed
+14018;not in product feed
+14019;not in product feed
+14021;not in product feed
+14022;not in product feed
+14024;not in product feed
+14025;not in product feed
+14026;not in product feed
+14027;not in product feed
+14028;not in product feed
+14031;not in product feed
+14033;not in product feed
+14034;not in product feed
+14035;not in product feed
+14036;not in product feed
+14037;not in product feed
+14038;not in product feed
+14039;not in product feed
+14040;not in product feed
+14041;not in product feed
+14042;not in product feed
+14043;not in product feed
+14044;not in product feed
+14045;not in product feed
+14046;not in product feed
+14047;not in product feed
+14048;not in product feed
+14049;not in product feed
+14050;not in product feed
+14051;not in product feed
+14052;not in product feed
+14053;not in product feed
+14054;not in product feed
+14055;not in product feed
+14056;not in product feed
+14057;not in product feed
+14058;not in product feed
+14059;not in product feed
+14060;not in product feed
+14061;not in product feed
+14062;not in product feed
+14063;not in product feed
+14064;not in product feed
+14066;not in product feed
+14067;not in product feed
+14068;not in product feed
+14069;not in product feed
+14070;not in product feed
+14071;not in product feed
+14072;not in product feed
+14073;not in product feed
+14074;not in product feed
+14075;not in product feed
+14076;not in product feed
+14077;not in product feed
+14078;not in product feed
+14080;not in product feed
+14081;not in product feed
+14082;not in product feed
+14083;not in product feed
+14085;not in product feed
+14086;not in product feed
+14087;not in product feed
+14088;not in product feed
+14089;not in product feed
+14090;not in product feed
+14091;not in product feed
+14092;not in product feed
+14094;not in product feed
+14095;not in product feed
+14096;not in product feed
+14097;not in product feed
+14098;not in product feed
+14099;not in product feed
+14100;not in product feed
+14101;not in product feed
+14102;not in product feed
+14103;not in product feed
+14104;not in product feed
+14105;not in product feed
+14106;not in product feed
+14107;not in product feed
+14108;not in product feed
+14111;not in product feed
+14112;not in product feed
+14113;not in product feed
+14115;not in product feed
+14116;not in product feed
+14117;not in product feed
+14118;not in product feed
+14119;not in product feed
+14120;not in product feed
+14121;not in product feed
+14122;not in product feed
+14123;not in product feed
+14124;not in product feed
+14126;not in product feed
+14127;not in product feed
+14128;not in product feed
+14129;not in product feed
+14130;not in product feed
+14132;not in product feed
+14133;not in product feed
+14134;not in product feed
+14135;not in product feed
+14136;not in product feed
+14137;not in product feed
+14138;not in product feed
+14139;not in product feed
+14140;not in product feed
+14141;not in product feed
+14142;not in product feed
+14143;not in product feed
+14144;not in product feed
+14145;not in product feed
+14146;not in product feed
+14147;not in product feed
+14148;not in product feed
+14149;not in product feed
+14150;not in product feed
+14151;not in product feed
+14152;not in product feed
+14153;not in product feed
+14154;not in product feed
+14155;not in product feed
+14156;not in product feed
+14157;not in product feed
+14158;not in product feed
+14159;not in product feed
+14160;not in product feed
+14161;not in product feed
+14162;not in product feed
+14163;not in product feed
+14165;not in product feed
+14166;not in product feed
+14167;not in product feed
+14168;not in product feed
+14169;not in product feed
+14170;not in product feed
+14171;not in product feed
+14172;not in product feed
+14173;not in product feed
+14174;not in product feed
+14175;not in product feed
+14178;not in product feed
+14179;not in product feed
+14180;not in product feed
+14181;not in product feed
+14182;not in product feed
+14183;not in product feed
+14184;not in product feed
+14185;not in product feed
+14187;not in product feed
+14188;not in product feed
+14189;not in product feed
+14190;not in product feed
+14192;not in product feed
+14194;not in product feed
+14195;not in product feed
+14196;not in product feed
+14197;not in product feed
+14198;not in product feed
+14199;not in product feed
+14200;not in product feed
+14201;not in product feed
+14202;not in product feed
+14203;not in product feed
+14204;not in product feed
+14206;not in product feed
+14207;not in product feed
+14208;not in product feed
+14209;not in product feed
+14210;not in product feed
+14211;not in product feed
+14213;not in product feed
+14214;not in product feed
+14215;not in product feed
+14216;not in product feed
+14217;not in product feed
+14218;not in product feed
+14219;not in product feed
+14220;not in product feed
+14221;not in product feed
+14222;not in product feed
+14223;not in product feed
+14224;not in product feed
+14225;not in product feed
+14226;not in product feed
+14227;not in product feed
+14228;not in product feed
+14229;not in product feed
+14230;not in product feed
+14231;not in product feed
+14232;not in product feed
+14233;not in product feed
+14234;not in product feed
+14235;not in product feed
+14236;not in product feed
+14237;not in product feed
+14238;not in product feed
+14240;not in product feed
+14241;not in product feed
+14242;not in product feed
+14243;not in product feed
+14244;not in product feed
+14245;not in product feed
+14246;not in product feed
+14248;not in product feed
+14249;not in product feed
+14252;not in product feed
+14254;not in product feed
+14255;not in product feed
+14256;not in product feed
+14257;not in product feed
+14258;not in product feed
+14264;not in product feed
+14265;not in product feed
+14266;not in product feed
+14267;not in product feed
+14268;not in product feed
+14269;not in product feed
+14270;not in product feed
+14271;not in product feed
+14272;not in product feed
+14273;not in product feed
+14274;not in product feed
+14275;not in product feed
+14276;not in product feed
+14277;not in product feed
+14278;not in product feed
+14279;not in product feed
+14280;not in product feed
+14281;not in product feed
+14282;not in product feed
+14283;not in product feed
+14284;not in product feed
+14285;not in product feed
+14290;not in product feed
+14296;not in product feed
+14301;not in product feed
+14306;not in product feed
+14311;not in product feed
+14312;not in product feed
+14321;not in product feed
+14326;not in product feed
+14331;not in product feed
+14336;not in product feed
+14337;not in product feed
+14342;not in product feed
+14347;not in product feed
+14352;not in product feed
+14357;not in product feed
+14394;not in product feed
+14395;not in product feed
+14400;not in product feed
+14421;not in product feed
+14426;not in product feed
+14433;not in product feed
+14439;not in product feed
+14440;not in product feed
+14444;not in product feed
+14448;not in product feed
+14462;not in product feed
+14463;not in product feed
+14474;not in product feed
+14485;not in product feed
+14496;not in product feed
+14507;not in product feed
+14518;not in product feed
+14529;not in product feed
+14540;not in product feed
+14616;not in product feed
+14626;not in product feed
+14635;not in product feed
+14644;not in product feed
+14653;not in product feed
+14662;not in product feed
+14671;not in product feed
+14680;not in product feed
+14689;not in product feed
+14698;not in product feed
+14804;not in product feed
+14813;not in product feed
+14818;not in product feed
+14823;not in product feed
+14828;not in product feed
+14837;not in product feed
+14842;not in product feed
+14847;not in product feed
+14852;not in product feed
+14857;not in product feed
+14862;not in product feed
+14867;not in product feed
+14871;not in product feed
+14888;not in product feed
+14889;not in product feed
+14896;not in product feed
+14903;not in product feed
+14910;not in product feed
+14917;not in product feed
+14924;not in product feed
+14931;not in product feed
+14938;not in product feed
+14945;not in product feed
+14952;not in product feed
+14959;not in product feed
+15001;missing pcs on stock
+15010;missing pcs on stock
+15020;missing pcs on stock
+15032;not in product feed
+15044;not in product feed
+15045;not in product feed
+15056;not in product feed
+15067;not in product feed
+15078;not in product feed
+15089;not in product feed
+15100;not in product feed
+15111;not in product feed
+15122;not in product feed
+15134;not in product feed
+15145;not in product feed
+15156;not in product feed
+15167;not in product feed
+15178;not in product feed
+15315;not in product feed
+15330;not in product feed
+15335;not in product feed
+15340;not in product feed
+15345;missing pcs on stock
+15346;missing pcs on stock
+15347;missing pcs on stock
+15349;missing pcs on stock
+15350;missing pcs on stock
+15351;missing pcs on stock
+15352;missing pcs on stock
+15353;missing pcs on stock
+15354;missing pcs on stock
+15395;not in product feed
+15406;not in product feed
+15423;not in product feed
+15440;not in product feed
+15441;not in product feed
+15446;not in product feed
+15451;not in product feed
+15456;not in product feed
+15459;missing pcs on stock
+15477;not in product feed
+15478;not in product feed
+15493;not in product feed
+15508;not in product feed
+15523;not in product feed
+15538;not in product feed
+15553;not in product feed
+15568;not in product feed
+15592;not in product feed
+15593;not in product feed
+15603;not in product feed
+15613;not in product feed
+15623;not in product feed
+15633;not in product feed
+15643;not in product feed
+15653;not in product feed
+15663;not in product feed
+15673;not in product feed
+15683;not in product feed
+15698;not in product feed
+15699;not in product feed
+15700;not in product feed
+15701;not in product feed
+15702;not in product feed
+15703;not in product feed
+15704;not in product feed
+15705;not in product feed
+15707;not in product feed
+15708;not in product feed
+15710;not in product feed
+15711;not in product feed
+15725;not in product feed
+15726;not in product feed
+15735;not in product feed
+15744;not in product feed
+15753;not in product feed
+15762;not in product feed
+15771;not in product feed
+15780;not in product feed
+15789;not in product feed
+15799;not in product feed
+15803;not in product feed
+15807;not in product feed
+15811;not in product feed
+15815;not in product feed
+15819;not in product feed
+15823;not in product feed
+15827;not in product feed
+15832;not in product feed
+15837;not in product feed
+15842;not in product feed
+15847;not in product feed
+15852;not in product feed
+15857;not in product feed
+15862;not in product feed
+15867;not in product feed
+15872;not in product feed
+15877;not in product feed
+15882;not in product feed
+15927;missing pcs on stock
+15942;not in product feed
+15952;not in product feed
+15988;not in product feed
+15989;not in product feed
+16018;not in product feed
+16019;not in product feed
+16024;not in product feed
+16029;not in product feed
+16034;not in product feed
+16039;not in product feed
+16052;not in product feed
+16060;not in product feed
+16067;not in product feed
+16074;not in product feed
+16081;not in product feed
+16093;not in product feed
+16094;not in product feed
+16099;not in product feed
+16104;not in product feed
+16109;not in product feed
+16114;not in product feed
+16119;not in product feed
+16124;not in product feed
+16129;not in product feed
+16134;not in product feed
+16199;not in product feed
+16209;not in product feed
+16214;not in product feed
+16219;not in product feed
+16238;not in product feed
+16241;not in product feed
+16247;not in product feed
+16252;not in product feed
+16257;not in product feed
+16480;missing pcs on stock
+16481;missing pcs on stock
+16484;missing pcs on stock
+16486;missing pcs on stock
+16487;missing pcs on stock
+16528;not in product feed
+16547;not in product feed
+16566;not in product feed
+16577;not in product feed
+16588;not in product feed
+16616;not in product feed
+16627;not in product feed
+16643;not in product feed
+16644;not in product feed
+16650;not in product feed
+16656;not in product feed
+16662;not in product feed
+16668;not in product feed
+16705;not in product feed
+16706;not in product feed
+16796;not in product feed
+16797;not in product feed
+16815;not in product feed
+16818;not in product feed
+16829;not in product feed
+16840;not in product feed
+16851;not in product feed
+16862;not in product feed
+16872;not in product feed
+16886;not in product feed
+16890;missing pcs on stock
+16891;missing pcs on stock
+16892;missing pcs on stock
+16894;missing pcs on stock
+16895;missing pcs on stock
+16896;missing pcs on stock
+16897;missing pcs on stock
+16898;missing pcs on stock
+16899;missing pcs on stock
+16900;missing pcs on stock
+16901;missing pcs on stock
+16902;missing pcs on stock
+16903;missing pcs on stock
+16904;missing pcs on stock
+16905;missing pcs on stock
+16906;missing pcs on stock
+16917;missing pcs on stock
+16918;missing pcs on stock
+16919;missing pcs on stock
+16920;missing pcs on stock
+16965;not in product feed
+16966;not in product feed
+16972;not in product feed
+16978;not in product feed
+17037;not in product feed
+17042;not in product feed
+17132;not in product feed
+17133;not in product feed
+17134;not in product feed

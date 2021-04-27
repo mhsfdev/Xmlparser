@@ -1,4 +1,5 @@
 product id;EAN;name;price in CZK;# on stock
+2106;8595680530456;Těhotenské tričko Johanka, krátky rukáv, SVĚTLE RŮŽOVÁ M/L;370;1
 3798;8595680562600;MAGDA- volné těhotenské kraťasy, ŠEDÉ M/L;780;1
 3805;8595680562594;MAGDA- volné těhotenské kraťasy, BÉŽOVÉ L/XL;780;1
 3840;8595680522031;Těhotenské šaty s kapsami Šárka, TISK 06 M/L;586;14
@@ -32,7 +33,7 @@ product id;EAN;name;price in CZK;# on stock
 7604;8595680507533;Baby-vak BIO, hnědá/nebělená M;695;1
 7605;8595680507526;Baby-vak BIO, hnědá/nebělená L;290;3
 7502;8595680519239;Bavlněná nosící mikina Marie (i těhotenská), růžová S/M;1125;11
-10206;8595680521294;Těhotenská sukně riflová Klára 38;564;3
+10206;8595680521294;Těhotenská sukně riflová Klára 38;564;4
 10209;8595680521324;Těhotenská sukně riflová Klára 44;564;3
 10188;8595680563478;Dětská softshellová bunda, tm. modrá / tyrkys 98/104;450;1
 7481;8595680545436;Dětské SOFTSHELLové kalhoty 86;440;10
@@ -57,7 +58,6 @@ product id;EAN;name;price in CZK;# on stock
 7500;8595680522642;Dětské SOFTSHELLové kalhoty s nápletem v pase 140;707;6
 7446;8595680523960;Těhotenské softshellové kalhoty Silvie 36;1253;7
 7447;8595680523977;Těhotenské softshellové kalhoty Silvie 38;1253;8
-7448;8595680523984;Těhotenské softshellové kalhoty Silvie 40;1253;1
 3457;8595680525780;Dívčí (dětská) sukně,  LOSOSOVĚ RŮŽOVÁ, velikost 86;230;5
 3458;8595680525797;Dívčí (dětská) sukně,  LOSOSOVĚ RŮŽOVÁ, velikost 92;230;5
 3459;8595680525803;Dívčí (dětská) sukně,  LOSOSOVĚ RŮŽOVÁ, velikost 98;230;6
@@ -84,11 +84,11 @@ product id;EAN;name;price in CZK;# on stock
 12916;8595680543975;ZAPŮJČENÍ batolecího (toddler) nosítka 30,-Kč/den (VRATNÁ ZÁLOHA);2978;1
 12963;8595680544477;Softshell zimní s fleecem, 1 metr, černý;265;739
 12964;8595680544491;Softshell zimní s fleecem, 1 metr, petrolejový;265;491
-12965;8595680544521;Softshell zimní s fleecem, 1 metr, tmavě modrý ;265;146
+12965;8595680544521;Softshell zimní s fleecem, 1 metr, tmavě modrý ;265;147
 12966;8595680544484;Softshell zimní s fleecem, 1 metr, sytě růžový (fuchsiový);265;95
 12967;8595680544507;Softshell zimní s fleecem, 1 metr, starorůžový;265;100
 12968;8595680544545;Softshell zimní s fleecem, 1 metr, tyrkysový;265;46
-12969;8595680544460;Softshell zimní s fleecem, 1 metr, béžový;265;49
+12969;8595680544460;Softshell zimní s fleecem, 1 metr, béžový;265;50
 12970;8595680544514;Softshell zimní s fleecem, 1 metr, šedý melír;265
 12972;8595680544538;Softshell zimní s fleecem, 1 metr, tmavě modrý melír;265;42
 12973;8595680544453;Softshell zimní s fleecem, 1 metr, tmavě šedý (antracitový);265;97
@@ -111,7 +111,7 @@ product id;EAN;name;price in CZK;# on stock
 7669;8595680506598;Froté čtvercová látková plena 70x70cm;236;33
 3783;8595680504662;DANIELA- volné těhotenské kalhoty z denimu, BÉŽOVÉ L/XL;609;1
 3792;8595680504679;DANIELA- volné těhotenské kalhoty z denimu, ČERVENÉ L/XL;609;4
-13320;8595680547508;Kojicí šaty ELENA, dlouhý rukáv, bordo L/XL;700;10
+13320;8595680547508;Kojicí šaty ELENA, dlouhý rukáv, bordo L/XL;700;9
 13321;8595680547515;Kojicí šaty ELENA, dlouhý rukáv, bordo M/L;700;14
 13322;8595680547522;Kojicí šaty ELENA, dlouhý rukáv, bordo S/M;700;9
 13326;8595680547539;Kojicí šaty ELENA, dlouhý rukáv, bordo XS/S;700;19
@@ -166,10 +166,11 @@ product id;EAN;name;price in CZK;# on stock
 2026;8595680502132;Kojenecké body s dlouhým rukávem, světle modré, velikost 86;224;6
 2028;8595680502156;Kojenecké body s dlouhým rukávem, světle modré, velikost 98;224;3
 2037;8595680502262;Kojenecké body s dlouhým rukávem, světle zelené, velikost 56;224;10
-2038;8595680502279;Kojenecké body s dlouhým rukávem, světle zelené, velikost 62;224;9
+2038;8595680502279;Kojenecké body s dlouhým rukávem, světle zelené, velikost 62;224;10
 2039;8595680502286;Kojenecké body s dlouhým rukávem, světle zelené, velikost 68;224;18
 2040;8595680502293;Kojenecké body s dlouhým rukávem, světle zelené, velikost 74;224;8
 2041;8595680502309;Kojenecké body s dlouhým rukávem, světle zelené, velikost 80;224;5
+2042;8595680502316;Kojenecké body s dlouhým rukávem, světle zelené, velikost 86;224
 2043;8595680502323;Kojenecké body s dlouhým rukávem, světle zelené, velikost 92;224;7
 2044;8595680502330;Kojenecké body s dlouhým rukávem, světle zelené, velikost 98;224;14
 2045;8595680502354;Kojenecké body s dlouhým rukávem, tmavě modré, velikost 56;224;9
@@ -230,7 +231,7 @@ product id;EAN;name;price in CZK;# on stock
 1554;8595680503450;Těhotenská tunika Barbora, krátký rukáv, hnědá S/M;426;7
 1555;8595680503436;Těhotenská tunika Barbora, krátký rukáv, hnědá L/XL;426;7
 2412;8595680503443;Těhotenská tunika Barbora, krátký rukáv, hnědá M/L;426;8
-1552;8595680503498;Těhotenská tunika Barbora, krátký rukáv, červená S/M;426;6
+1552;8595680503498;Těhotenská tunika Barbora, krátký rukáv, červená S/M;426;7
 1553;8595680503474;Těhotenská tunika Barbora, krátký rukáv, červená L/XL;426;11
 2411;8595680503481;Těhotenská tunika Barbora, krátký rukáv, červená M/L;426;10
 1557;8595680503511;Těhotenská tunika Barbora, krátký rukáv, béžová (caffe latte) L/XL;370;13
@@ -250,7 +251,7 @@ product id;EAN;name;price in CZK;# on stock
 1567;8595680503757;Těhotenská tunika Barbora, krátký rukáv, tmavě modrá L/XL;426;3
 2418;8595680503764;Těhotenská tunika Barbora, krátký rukáv, tmavě modrá M/L;426;13
 1569;8595680503795;Těhotenská tunika Barbora, krátký rukáv, tmavě zelená L/XL;370;2
-1570;8595680503856;Těhotenská tunika Barbora, krátký rukáv, tyrkysová S/M;426;12
+1570;8595680503856;Těhotenská tunika Barbora, krátký rukáv, tyrkysová S/M;426;13
 1571;8595680503832;Těhotenská tunika Barbora, krátký rukáv, tyrkysová L/XL;426;11
 2420;8595680503849;Těhotenská tunika Barbora, krátký rukáv, tyrkysová M/L;426;12
 1573;8595680503870;Těhotenská tunika Barbora, krátký rukáv, žlutooranžová L/XL;370;2
@@ -346,6 +347,7 @@ product id;EAN;name;price in CZK;# on stock
 7562;8595680507267;Nepromkovavé svrchní kalhotky na látkové pleny PUL, retro kárované M 6-10kg;374;2
 7674;8595680507366;Nepromkovavé svrchní kalhotky na látkové pleny PUL, oranžové S 3-7kg;374;2
 12377;8595680507373;Nepromkovavé svrchní kalhotky na látkové pleny PUL, oranžové XL 12-18kg;374;7
+7749;8595680507656;Baby-vak BIO, zelená/nebělená S;290;1
 508;8595680507755;Kojící tričko KARLA, dlouhý rukáv, černá S/M;437;12
 509;8595680507731;Kojící tričko KARLA, dlouhý rukáv, černá L/XL;437;19
 2348;8595680507748;Kojící tričko KARLA, dlouhý rukáv, černá M/L;437;11
@@ -353,24 +355,23 @@ product id;EAN;name;price in CZK;# on stock
 2179;8595680507786;Kojící tričko KARLA, dlouhý rukáv, hnědá M/L;300;1
 510;8595680507878;Kojící tričko KARLA, dlouhý rukáv, tmavě modrá (jeans) S/M;437;14
 511;8595680507854;Kojící tričko KARLA, dlouhý rukáv, tmavě modrá (jeans) L/XL;437;17
-2180;8595680507861;Kojící tričko KARLA, dlouhý rukáv, tmavě modrá (jeans) M/L;437;10
+2180;8595680507861;Kojící tričko KARLA, dlouhý rukáv, tmavě modrá (jeans) M/L;437;12
 525;8595680507977;Kojící tričko KARLA, dlouhý rukáv, šeříková L/XL;380;7
 517;8595680508011;Kojící tričko KARLA, dlouhý rukáv, smetanová L/XL;300;37
 527;8595680508059;Kojící tričko KARLA, dlouhý rukáv, švestkově fialová L/XL;437;7
 2188;8595680508066;Kojící tričko KARLA, dlouhý rukáv, švestkově fialová M/L;437;6
-521;8595680508134;Kojící tričko KARLA, dlouhý rukáv, sytě růžová L/XL;437;13
-2185;8595680508141;Kojící tričko KARLA, dlouhý rukáv, sytě růžová M/L;437;5
+521;8595680508134;Kojící tričko KARLA, dlouhý rukáv, sytě růžová L/XL;437;14
+2185;8595680508141;Kojící tričko KARLA, dlouhý rukáv, sytě růžová M/L;437;6
 513;8595680508172;Kojící tričko KARLA, dlouhý rukáv, tmavý tyrkys L/XL;437;9
 529;8595680508219;Kojící tričko KARLA, dlouhý rukáv, tyrkysová L/XL;380;13
-484;8595680508271;Kojící tričko KARLA, krátký rukáv, černá S/M;426;2
-485;8595680508257;Kojící tričko KARLA, krátký rukáv, černá L/XL;426;12
-2202;8595680508264;Kojící tričko KARLA, krátký rukáv, černá M/L;426;15
+484;8595680508271;Kojící tričko KARLA, krátký rukáv, černá S/M;426;3
+485;8595680508257;Kojící tričko KARLA, krátký rukáv, černá L/XL;426;13
+2202;8595680508264;Kojící tričko KARLA, krátký rukáv, černá M/L;426;16
 489;8595680508370;Kojící tričko KARLA, krátký rukáv, tmavě modrá (jeans) L/XL;426;10
 2204;8595680508387;Kojící tričko KARLA, krátký rukáv, tmavě modrá (jeans) M/L;426;14
 506;8595680508479;Kojící tričko KARLA, krátký rukáv, šedý melír S/M;449;6
 507;8595680508455;Kojící tričko KARLA, krátký rukáv, šedý melír L/XL;449;13
 2213;8595680508462;Kojící tričko KARLA, krátký rukáv, šedý melír M/L;449;13
-499;8595680508691;Kojící tričko KARLA, krátký rukáv, tmavý tyrkys L/XL;426;1
 7969;8595680508790;Kojící a těhotenské tílko Ema, odepínací ramínka, černé S/M;471;8
 7970;8595680508783;Kojící a těhotenské tílko Ema, odepínací ramínka, černé M/L;471;15
 7971;8595680508776;Kojící a těhotenské tílko Ema, odepínací ramínka, černé L/XL;471;7
@@ -378,7 +379,7 @@ product id;EAN;name;price in CZK;# on stock
 7966;8595680508875;Kojící a těhotenské tílko Ema na ramínka, sytě růžové S/M;471;9
 7967;8595680508868;Kojící a těhotenské tílko Ema na ramínka, sytě růžové M/L;471;3
 7968;8595680508851;Kojící a těhotenské tílko Ema na ramínka, sytě růžové L/XL;471;8
-7972;8595680508912;Kojící a těhotenské tílko Ema na ramínka, tmavý tyrkys S/M;471;8
+7972;8595680508912;Kojící a těhotenské tílko Ema na ramínka, tmavý tyrkys S/M;471;9
 7973;8595680508905;Kojící a těhotenské tílko Ema na ramínka, tmavý tyrkys M/L;471;7
 7974;8595680508899;Kojící a těhotenské tílko Ema na ramínka, tmavý tyrkys L/XL;471;9
 3084;8595680509704;Kojící noční košile rozepínací, 3/4 rukáv, bílá S/M;460;14
@@ -411,12 +412,12 @@ product id;EAN;name;price in CZK;# on stock
 7663;8595680510281;Kojící noční košile rozepínací, bez rukávů, bílá L/XL;449;24
 3132;8595680510380;Kojící noční košile rozepínací, bez rukávů, černá S/M;449;8
 3133;8595680510373;Kojící noční košile rozepínací, bez rukávů, černá M/L;449;7
-3134;8595680510366;Kojící noční košile rozepínací, bez rukávů, černá L/XL;449;15
+3134;8595680510366;Kojící noční košile rozepínací, bez rukávů, černá L/XL;449;16
 3138;8595680510427;Kojící noční košile rozepínací, bez rukávů, hnědá S/M;449;6
 3139;8595680510410;Kojící noční košile rozepínací, bez rukávů, hnědá M/L;449;2
 3140;8595680510403;Kojící noční košile rozepínací, bez rukávů, hnědá L/XL;449;1
 3135;8595680510465;Kojící noční košile rozepínací, bez rukávů, červená S/M;449;9
-3136;8595680510458;Kojící noční košile rozepínací, bez rukávů, červená M/L;449;14
+3136;8595680510458;Kojící noční košile rozepínací, bez rukávů, červená M/L;449;15
 3137;8595680510441;Kojící noční košile rozepínací, bez rukávů, červená L/XL;449;14
 3146;8595680510489;Kojící noční košile rozepínací, bez rukávů, béžová L/XL;390;2
 3147;8595680510540;Kojící noční košile rozepínací, bez rukávů, levandulově fialová S/M;449;9
@@ -426,8 +427,8 @@ product id;EAN;name;price in CZK;# on stock
 3141;8595680510700;Kojící noční košile rozepínací, bez rukávů, světle zelená S/M;449;10
 3142;8595680510694;Kojící noční košile rozepínací, bez rukávů, světle zelená M/L;449;7
 3143;8595680510687;Kojící noční košile rozepínací, bez rukávů, světle zelená L/XL;449;9
-3159;8595680510748;Kojící noční košile rozepínací, bez rukávů, tmavě modrá S/M;449;5
-3160;8595680510731;Kojící noční košile rozepínací, bez rukávů, tmavě modrá M/L;449;8
+3159;8595680510748;Kojící noční košile rozepínací, bez rukávů, tmavě modrá S/M;449;6
+3160;8595680510731;Kojící noční košile rozepínací, bez rukávů, tmavě modrá M/L;449;9
 3161;8595680510724;Kojící noční košile rozepínací, bez rukávů, tmavě modrá L/XL;449;16
 3162;8595680510823;Kojící noční košile rozepínací, bez rukávů, tyrkysová S/M;449;8
 3163;8595680510816;Kojící noční košile rozepínací, bez rukávů, tyrkysová M/L;449;5
@@ -435,12 +436,12 @@ product id;EAN;name;price in CZK;# on stock
 1519;8595680510908;Kojicí noční košile Lucie, dlouhý rukáv, černá S/M;535;12
 1520;8595680510885;Kojicí noční košile Lucie, dlouhý rukáv, černá L/XL;535;3
 1521;8595680510915;Kojicí noční košile Lucie, dlouhý rukáv, černá XXL/XXXL;560;3
-2235;8595680510892;Kojicí noční košile Lucie, dlouhý rukáv, černá M/L;535;11
+2235;8595680510892;Kojicí noční košile Lucie, dlouhý rukáv, černá M/L;535;12
 249;8595680510960;Kojicí noční košile Lucie, dlouhý rukáv, hnědá XXL/XXXL;320;3
 268;8595680511141;Kojicí noční košile Lucie, dlouhý rukáv, šedý melír S/M;565;2
 269;8595680511127;Kojicí noční košile Lucie, dlouhý rukáv, šedý melír L/XL;565;8
 270;8595680511158;Kojicí noční košile Lucie, dlouhý rukáv, šedý melír XXL/XXXL;620;2
-2232;8595680511134;Kojicí noční košile Lucie, dlouhý rukáv, šedý melír M/L;565;14
+2232;8595680511134;Kojicí noční košile Lucie, dlouhý rukáv, šedý melír M/L;565;15
 260;8595680511226;Kojicí noční košile Lucie, dlouhý rukáv, smetanová L/XL;535;5
 261;8595680511257;Kojicí noční košile Lucie, dlouhý rukáv, smetanová XXL/XXXL;560;6
 274;8595680511295;Kojicí noční košile Lucie, dlouhý rukáv, švestkové fialová S/M;535;8
@@ -453,17 +454,17 @@ product id;EAN;name;price in CZK;# on stock
 253;8595680511448;Kojicí noční košile Lucie, dlouhý rukáv, tmavý tyrkys S/M;535;13
 254;8595680511424;Kojicí noční košile Lucie, dlouhý rukáv, tmavý tyrkys L/XL;535;6
 255;8595680511455;Kojicí noční košile Lucie, dlouhý rukáv, tmavý tyrkys XXL/XXXL;560;7
-2227;8595680511431;Kojicí noční košile Lucie, dlouhý rukáv, tmavý tyrkys M/L;535;5
-1604;8595680511547;Kojicí noční košile Lucie, krátký rukáv, černá S/M;525;11
+2227;8595680511431;Kojicí noční košile Lucie, dlouhý rukáv, tmavý tyrkys M/L;535;6
+1604;8595680511547;Kojicí noční košile Lucie, krátký rukáv, černá S/M;525;12
 1605;8595680511523;Kojicí noční košile Lucie, krátký rukáv, černá L/XL;525;12
 1606;8595680511554;Kojicí noční košile Lucie, krátký rukáv, černá XXL/XXXL;550;1
-2236;8595680511530;Kojicí noční košile Lucie, krátký rukáv, černá M/L;525;15
+2236;8595680511530;Kojicí noční košile Lucie, krátký rukáv, černá M/L;525;16
 129;8595680511608;Kojicí noční košile Lucie, krátký rukáv, čokoládově hnědá XXL/XXXL;410;3
-124;8595680511790;Kojicí noční košile Lucie, krátký rukáv, jeans modrá S/M;525;19
+124;8595680511790;Kojicí noční košile Lucie, krátký rukáv, jeans modrá S/M;525;20
 125;8595680511776;Kojicí noční košile Lucie, krátký rukáv, jeans modrá L/XL;525;4
 126;8595680511806;Kojicí noční košile Lucie, krátký rukáv, jeans modrá XXL/XXXL;550;6
 2220;8595680511783;Kojicí noční košile Lucie, krátký rukáv, jeans modrá M/L;525;1
-3730;8595680511837;Kojicí noční košile Jana, s krajkou, černá M/L;633;22
+3730;8595680511837;Kojicí noční košile Jana, s krajkou, černá M/L;633;23
 3731;8595680511820;Kojicí noční košile Jana, s krajkou, černá L/XL;633;17
 3735;8595680511929;Kojicí noční košile Jana, s krajkou, smetanová S/M;490;1
 3737;8595680511905;Kojicí noční košile Jana, s krajkou, smetanová L/XL;490;7
@@ -476,17 +477,17 @@ product id;EAN;name;price in CZK;# on stock
 217;8595680512131;Kojicí noční košile Lucie, krátký rukáv, šedý melír S/M;550;10
 218;8595680512117;Kojicí noční košile Lucie, krátký rukáv, šedý melír L/XL;550;9
 219;8595680512148;Kojicí noční košile Lucie, krátký rukáv, šedý melír XXL/XXXL;600;9
-2223;8595680512124;Kojicí noční košile Lucie, krátký rukáv, šedý melír M/L;550;17
+2223;8595680512124;Kojicí noční košile Lucie, krátký rukáv, šedý melír M/L;550;18
 221;8595680512216;Kojicí noční košile Lucie, krátký rukáv, smetanová L/XL;525;5
 222;8595680512247;Kojicí noční košile Lucie, krátký rukáv, smetanová XXL/XXXL;550;1
 2224;8595680512223;Kojicí noční košile Lucie, krátký rukáv, smetanová M/L;525;8
-121;8595680512285;Kojicí noční košile Lucie, krátký rukáv, švestkově fialová S/M;525;12
-122;8595680512261;Kojicí noční košile Lucie, krátký rukáv, švestkově fialová L/XL;525;13
+121;8595680512285;Kojicí noční košile Lucie, krátký rukáv, švestkově fialová S/M;525;13
+122;8595680512261;Kojicí noční košile Lucie, krátký rukáv, švestkově fialová L/XL;525;14
 123;8595680512292;Kojicí noční košile Lucie, krátký rukáv, švestkově fialová XXL/XXXL;550;1
 2219;8595680512278;Kojicí noční košile Lucie, krátký rukáv, švestkově fialová M/L;525;2
 61;8595680512346;Kojicí noční košile Lucie, krátký rukáv, meruňková XXL/XXXL;410;2
-204;8595680512438;Kojicí noční košile Lucie, krátký rukáv, petrolejová S/M;525;12
-206;8595680512445;Kojicí noční košile Lucie, krátký rukáv, petrolejová XXL/XXXL;550;2
+204;8595680512438;Kojicí noční košile Lucie, krátký rukáv, petrolejová S/M;525;13
+206;8595680512445;Kojicí noční košile Lucie, krátký rukáv, petrolejová XXL/XXXL;550;3
 2222;8595680512421;Kojicí noční košile Lucie, krátký rukáv, petrolejová M/L;525;18
 1643;8595680512537;Kojicí tričko Kateřina, 3/4 rukáv, bílé S/M;437;24
 1644;8595680512513;Kojicí tričko Kateřina, 3/4 rukáv, bílé L/XL;437;33
@@ -506,27 +507,27 @@ product id;EAN;name;price in CZK;# on stock
 1664;8595680512711;Kojicí tričko Kateřina, 3/4 rukáv, béžové (caffe latte) L/XL;380;2
 1671;8595680512773;Kojicí tričko Kateřina, 3/4 rukáv, světle fialové S/M;437;14
 1672;8595680512759;Kojicí tričko Kateřina, 3/4 rukáv, světle fialové L/XL;437;38
-2362;8595680512766;Kojicí tričko Kateřina, 3/4 rukáv, světle fialové M/L;437;16
-1645;8595680512810;Kojicí tričko Kateřina, 3/4 rukáv, lososově růžové S/M;437;7
+2362;8595680512766;Kojicí tričko Kateřina, 3/4 rukáv, světle fialové M/L;437;17
+1645;8595680512810;Kojicí tričko Kateřina, 3/4 rukáv, lososově růžové S/M;437;8
 1646;8595680512797;Kojicí tričko Kateřina, 3/4 rukáv, lososově růžové L/XL;437;14
-2270;8595680512803;Kojicí tričko Kateřina, 3/4 rukáv, lososově růžové M/L;437;25
+2270;8595680512803;Kojicí tričko Kateřina, 3/4 rukáv, lososově růžové M/L;437;26
 1653;8595680513077;Kojicí tričko Kateřina, 3/4 rukáv, tmavě modré S/M;437;34
 1654;8595680513053;Kojicí tričko Kateřina, 3/4 rukáv, tmavě modréL/XL;437;22
-2364;8595680513060;Kojicí tričko Kateřina, 3/4 rukáv, tmavě modré M/L;437;27
-1657;8595680513152;Kojicí tričko Kateřina, 3/4 rukáv, tyrkysové S/M;437;27
-1658;8595680513138;Kojicí tričko Kateřina, 3/4 rukáv, tyrkysové L/XL;437;38
+2364;8595680513060;Kojicí tričko Kateřina, 3/4 rukáv, tmavě modré M/L;437;28
+1657;8595680513152;Kojicí tričko Kateřina, 3/4 rukáv, tyrkysové S/M;437;26
+1658;8595680513138;Kojicí tričko Kateřina, 3/4 rukáv, tyrkysové L/XL;437;39
 2274;8595680513145;Kojicí tričko Kateřina, 3/4 rukáv, tyrkysové M/L;437;31
-1385;8595680513237;Kojicí tričko Kateřina, dlouhý rukáv, bílé, S/M;437;28
+1385;8595680513237;Kojicí tričko Kateřina, dlouhý rukáv, bílé, S/M;437;29
 1386;8595680513213;Kojicí tričko Kateřina, dlouhý rukáv, bílé, L/XL;437;41
-2254;8595680513220;Kojicí tričko Kateřina, dlouhý rukáv, bílé, M/L;437;33
+2254;8595680513220;Kojicí tričko Kateřina, dlouhý rukáv, bílé, M/L;437;32
 13035;8595680545016;Kojicí tričko Kateřina, dlouhý rukáv, bílé, XS/S;437;18
 1387;8595680513275;Kojicí tričko Kateřina, dlouhý rukáv, bordo (vínové), S/M;437;20
-1388;8595680513251;Kojicí tričko Kateřina, dlouhý rukáv, bordo (vínové), L/XL;437;31
+1388;8595680513251;Kojicí tričko Kateřina, dlouhý rukáv, bordo (vínové), L/XL;437;30
 2255;8595680513268;Kojicí tričko Kateřina, dlouhý rukáv, bordo (vínové), M/L;437;28
 13036;8595680545023;Kojicí tričko Kateřina, dlouhý rukáv, bordo (vínové), XS/S;437;64
-1391;8595680513312;Kojicí tričko Kateřina, dlouhý rukáv, černé, S/M;437;53
+1391;8595680513312;Kojicí tričko Kateřina, dlouhý rukáv, černé, S/M;437;54
 1392;8595680513299;Kojicí tričko Kateřina, dlouhý rukáv, černé, L/XL;437;49
-2257;8595680513305;Kojicí tričko Kateřina, dlouhý rukáv, černé, M/L;437;23
+2257;8595680513305;Kojicí tričko Kateřina, dlouhý rukáv, černé, M/L;437;24
 13037;8595680545030;Kojicí tričko Kateřina, dlouhý rukáv, černé, XS/S;437;21
 1396;8595680513336;Kojicí tričko Kateřina, dlouhý rukáv, čokoládově hnědé, L/XL;437;10
 2259;8595680513343;Kojicí tričko Kateřina, dlouhý rukáv, čokoládově hnědé, M/L;437;1
@@ -535,13 +536,13 @@ product id;EAN;name;price in CZK;# on stock
 1394;8595680513374;KKojicí tričko Kateřina, dlouhý rukáv, červené, L/XL;437;17
 2258;8595680513381;Kojicí tričko Kateřina, dlouhý rukáv, červené, M/L;437;32
 13039;8595680545054;Kojicí tričko Kateřina, dlouhý rukáv, červené, XS/S;437;8
-1405;8595680513473;Kojicí tričko Kateřina, dlouhý rukáv, levandulové (světle fialové), S/M;437;34
+1405;8595680513473;Kojicí tričko Kateřina, dlouhý rukáv, levandulové (světle fialové), S/M;437;35
 1406;8595680513459;Kojicí tričko Kateřina, dlouhý rukáv, levandulové (světle fialové), L/XL;437;29
 2264;8595680513466;Kojicí tričko Kateřina, dlouhý rukáv, levandulové (světle fialové), M/L;437;33
 13040;8595680545061;Kojicí tričko Kateřina, dlouhý rukáv, levandulové (světle fialové), XS/S;437;15
 1397;8595680513510;Kojicí tričko Kateřina, dlouhý rukáv, lososově růžové, S/M;437;34
 1398;8595680513497;Kojicí tričko Kateřina, dlouhý rukáv, lososově růžové, L/XL;437;20
-2260;8595680513503;Kojicí tričko Kateřina, dlouhý rukáv, lososově růžové, M/L;437;13
+2260;8595680513503;Kojicí tričko Kateřina, dlouhý rukáv, lososově růžové, M/L;437;14
 13041;8595680545078;Kojicí tričko Kateřina, dlouhý rukáv, lososově růžové, XS/S;437;12
 1403;8595680513633;Kojicí tričko Kateřina, dlouhý rukáv, světle zelené, S/M;437;26
 1404;8595680513619;Kojicí tričko Kateřina, dlouhý rukáv, světle zelené, L/XL;437;14
@@ -551,40 +552,40 @@ product id;EAN;name;price in CZK;# on stock
 2078;8595680513886;Kojicí tričko Kateřina, dlouhý rukáv, tyrkysové, L/XL;437;17
 2268;8595680513893;Kojicí tričko Kateřina, dlouhý rukáv, tyrkysové, M/L;437;17
 13044;8595680545108;Kojicí tričko Kateřina, dlouhý rukáv, tyrkysové, XS/S;437;15
-1613;8595680513985;Kojicí tričko Kateřina, krátký rukáv, bílé S/M;426;34
+1613;8595680513985;Kojicí tričko Kateřina, krátký rukáv, bílé S/M;426;35
 1614;8595680513961;Kojicí tričko Kateřina, krátký rukáv, bílé L/XL;426;43
-2281;8595680513978;Kojicí tričko Kateřina, krátký rukáv, bílé M/L;426;22
+2281;8595680513978;Kojicí tričko Kateřina, krátký rukáv, bílé M/L;426;23
 1615;8595680514029;Kojicí tričko Kateřina, krátký rukáv, bordo (vínové) S/M;426;22
 1616;8595680514005;Kojicí tričko Kateřina, krátký rukáv, bordo (vínové) L/XL;426;7
-2282;8595680514012;Kojicí tričko Kateřina, krátký rukáv, bordo (vínové) M/L;426;8
-1619;8595680514067;Kojicí tričko Kateřina, krátký rukáv, černé S/M;426;12
-1620;8595680514043;Kojicí tričko Kateřina, krátký rukáv, černé L/XL;426;24
-2284;8595680514050;Kojicí tričko Kateřina, krátký rukáv, černé M/L;426;18
+2282;8595680514012;Kojicí tričko Kateřina, krátký rukáv, bordo (vínové) M/L;426;9
+1619;8595680514067;Kojicí tričko Kateřina, krátký rukáv, černé S/M;426;14
+1620;8595680514043;Kojicí tričko Kateřina, krátký rukáv, černé L/XL;426;25
+2284;8595680514050;Kojicí tričko Kateřina, krátký rukáv, černé M/L;426;20
 1623;8595680514104;Kojicí tričko Kateřina, krátký rukáv, čokoládově hnědé S/M;426;10
 1624;8595680514081;Kojicí tričko Kateřina, krátký rukáv, čokoládově hnědé L/XL;426;15
-2286;8595680514098;Kojicí tričko Kateřina, krátký rukáv, čokoládově hnědé M/L;426;27
+2286;8595680514098;Kojicí tričko Kateřina, krátký rukáv, čokoládově hnědé M/L;426;28
 13048;8595680545146;Kojicí tričko Kateřina, krátký rukáv, čokoládově hnědé XS/S;426;25
-1621;8595680514142;Kojicí tričko Kateřina, krátký rukáv, červené S/M;426;19
+1621;8595680514142;Kojicí tričko Kateřina, krátký rukáv, červené S/M;426;21
 1622;8595680514128;Kojicí tričko Kateřina, krátký rukáv, červené L/XL;426;13
 2285;8595680514135;Kojicí tričko Kateřina, krátký rukáv, červené M/L;426;11
 13049;8595680545153;Kojicí tričko Kateřina, krátký rukáv, červené XS/S;426;31
-1625;8595680514227;Kojicí tričko Kateřina, krátký rukáv, levandulově fialové S/M;426;24
+1625;8595680514227;Kojicí tričko Kateřina, krátký rukáv, levandulově fialové S/M;426;25
 1626;8595680514203;Kojicí tričko Kateřina, krátký rukáv, levandulově fialové L/XL;426;11
 2287;8595680514210;Kojicí tričko Kateřina, krátký rukáv, levandulově fialové M/L;426;21
 13050;8595680545160;Kojicí tričko Kateřina, krátký rukáv, levandulově fialové XS/S;426;12
-14753;8595680553189;Kojicí tričko Kateřina, krátký rukáv, světle modré XS/S;370;8
-1633;8595680514388;Kojicí tričko Kateřina, krátký rukáv, světle zelené S/M;426;20
+14753;8595680553189;Kojicí tričko Kateřina, krátký rukáv, světle modré XS/S;370;10
+1633;8595680514388;Kojicí tričko Kateřina, krátký rukáv, světle zelené S/M;426;21
 1634;8595680514364;Kojicí tričko Kateřina, krátký rukáv, světle zelené L/XL;426;8
-2291;8595680514371;Kojicí tričko Kateřina, krátký rukáv, světle zelené M/L;426;16
+2291;8595680514371;Kojicí tričko Kateřina, krátký rukáv, světle zelené M/L;426;17
 13052;8595680545184;Kojicí tričko Kateřina, krátký rukáv, světle zelené XS/S;426;38
 1635;8595680514487;Kojicí tričko Kateřina, krátký rukáv, tmavě modré S/M;426;26
-1636;8595680514463;Kojicí tričko Kateřina, krátký rukáv, tmavě modré L/XL;426;28
-2292;8595680514470;Kojicí tričko Kateřina, krátký rukáv, tmavě modré M/L;426;17
-1639;8595680514562;Kojicí tričko Kateřina, krátký rukáv, tyrkysové S/M;426;32
-1640;8595680514548;Kojicí tričko Kateřina, krátký rukáv, tyrkysové L/XL;426;30
+1636;8595680514463;Kojicí tričko Kateřina, krátký rukáv, tmavě modré L/XL;426;27
+2292;8595680514470;Kojicí tričko Kateřina, krátký rukáv, tmavě modré M/L;426;18
+1639;8595680514562;Kojicí tričko Kateřina, krátký rukáv, tyrkysové S/M;426;33
+1640;8595680514548;Kojicí tričko Kateřina, krátký rukáv, tyrkysové L/XL;426;31
 2294;8595680514555;Kojicí tričko Kateřina, krátký rukáv, tyrkysové M/L;426;7
-3560;8595680514685;Kojicí rolák Kateřina, černý S/M;449;30
-3561;8595680514678;Kojicí rolák Kateřina, černý M/L;449;28
+3560;8595680514685;Kojicí rolák Kateřina, černý S/M;449;31
+3561;8595680514678;Kojicí rolák Kateřina, černý M/L;449;29
 3562;8595680514661;Kojicí rolák Kateřina, černý L/XL;449;25
 13081;8595680545368;Kojicí rolák Kateřina, černý XS/S;449;27
 3555;8595680514715;Kojicí rolák Kateřina, čokoládově hnědý M/L;449;12
@@ -625,7 +626,7 @@ product id;EAN;name;price in CZK;# on stock
 2172;8595680515279;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, smetanová M/L;437;9
 1748;8595680515323;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, švestková S/M;437;20
 1749;8595680515309;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, švestková L/XL;437;12
-2176;8595680515316;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, švestková M/L;437;4
+2176;8595680515316;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, švestková M/L;437;5
 1743;8595680515347;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, sv. oranžová L/XL;380;11
 2173;8595680515354;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, sv. oranžová M/L;380;3
 1744;8595680515408;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, sytě růžová S/M;437;21
@@ -634,22 +635,22 @@ product id;EAN;name;price in CZK;# on stock
 7259;8595680566882;Kojicí tričko Klaudie TISK05, dlouhý rukáv S/M;190;10
 1750;8595680515668;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, petrolejová ( tm. tyrkys ) S/M;437;13
 1751;8595680515644;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, petrolejová ( tm. tyrkys ) L/XL;437;11
-2177;8595680515651;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, petrolejová ( tm. tyrkys ) M/L;437;14
+2177;8595680515651;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, petrolejová ( tm. tyrkys ) M/L;437;15
 1753;8595680515682;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, tyrkysová L/XL;380;15
 2178;8595680515699;Kojící tričko Klaudie, vsadka v barvě, dlouhý rukáv, tyrkysová M/L;380;5
 1701;8595680515743;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, černá S/M;426;26
-1702;8595680515729;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, černá L/XL;426;10
+1702;8595680515729;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, černá L/XL;426;11
 2190;8595680515736;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, černá M/L;426;8
 1704;8595680515767;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, čoko hnědá L/XL;370;10
 1705;8595680515866;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, tm. modrá ( jeans ) S/M;426;16
-1706;8595680515842;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, tm. modrá ( jeans ) L/XL;426;1
+1706;8595680515842;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, tm. modrá ( jeans ) L/XL;426;2
 1713;8595680515941;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, šedý melír S/M;449;11
 1714;8595680515927;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, šedý melír L/XL;449;9
 2196;8595680515934;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, šedý melír M/L;449;8
 1715;8595680516023;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, smetanová S/M;426;13
 1716;8595680516009;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, smetanová L/XL;426;20
 2197;8595680516016;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, smetanová M/L;426;17
-1717;8595680516061;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, švestková S/M;426;26
+1717;8595680516061;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, švestková S/M;426;27
 1718;8595680516047;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, švestková L/XL;426;9
 2198;8595680516054;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, švestková M/L;426;3
 1719;8595680516146;Kojící tričko Klaudie, vsadka v barvě, krátký rukáv, sytě růžová S/M;426;3
@@ -669,9 +670,9 @@ product id;EAN;name;price in CZK;# on stock
 3592;8595680516610;Kojicí rolák Klaudie, sytě růžový L/XL;390;17
 3606;8595680516665;Kojicí rolák Klaudie, petrolejový M/L;390;6
 3607;8595680516658;Kojicí rolák Klaudie, petrolejový L/XL;390;14
-458;8595680516719;Těhotenské legíny, 3/4, černé S/M;460;12
+458;8595680516719;Těhotenské legíny, 3/4, černé S/M;460;13
 459;8595680516696;Těhotenské legíny, 3/4, černé L/XL;460;24
-2253;8595680516702;Těhotenské legíny, 3/4, černé M/L;460;7
+2253;8595680516702;Těhotenské legíny, 3/4, černé M/L;460;8
 10219;8595680516757;Těhotenské legíny, 3/4, fialové S/M;460;14
 10220;8595680516733;Těhotenské legíny, 3/4, fialové L/XL;460;3
 10221;8595680516740;Těhotenské legíny, 3/4, fialové M/L;460;12
@@ -698,7 +699,7 @@ product id;EAN;name;price in CZK;# on stock
 678;8595680517259;Bavlněné legíny dětské, černé, 110;185;5
 679;8595680517266;Bavlněné legíny dětské, černé, 116;185;9
 680;8595680517273;Bavlněné legíny dětské, černé, 122;185;8
-681;8595680517280;Bavlněné legíny dětské, černé, 128;185;6
+681;8595680517280;Bavlněné legíny dětské, černé, 128;185;7
 682;8595680517297;Bavlněné legíny dětské, černé, 134;185;42
 1286;8595680517303;Bavlněné legíny dětské, černé, 140;185;15
 2355;8595680559631;Bavlněné legíny dívčí, černé, XL;290;8
@@ -719,7 +720,7 @@ product id;EAN;name;price in CZK;# on stock
 1290;8595680517440;LEGÍNY dětské, čoko hnědá 140;185;2
 728;8595680517563;LEGÍNY dětské, červená 86;185;4
 729;8595680517570;LEGÍNY dětské, červená 92;185;7
-730;8595680517587;LEGÍNY dětské, červená 98;185;8
+730;8595680517587;LEGÍNY dětské, červená 98;185;10
 731;8595680517495;LEGÍNY dětské, červená 104;185;4
 732;8595680517501;LEGÍNY dětské, červená 110;185;6
 733;8595680517518;LEGÍNY dětské, červená 116;185;6
@@ -734,8 +735,8 @@ product id;EAN;name;price in CZK;# on stock
 7522;8595680517884;Těhotenské legíny dlouhé, tyrkysové L/XL;460;4
 701;8595680517990;LEGÍNY dětské, levandulová 86;185;10
 702;8595680518003;LEGÍNY dětské, levandulová 92;185;6
-703;8595680518010;LEGÍNY dětské, levandulová 98;185;19
-704;8595680517921;LEGÍNY dětské, levandulová 104;185;4
+703;8595680518010;LEGÍNY dětské, levandulová 98;185;20
+704;8595680517921;LEGÍNY dětské, levandulová 104;185;5
 705;8595680517938;LEGÍNY dětské, levandulová 110;185;7
 706;8595680517945;LEGÍNY dětské, levandulová 116;185;8
 707;8595680517952;LEGÍNY dětské, levandulová 122;185;11
@@ -866,7 +867,7 @@ product id;EAN;name;price in CZK;# on stock
 2683;8595680524462;Těhotenská sukně balonová Sabina, černá S/M;471;14
 2684;8595680524455;Těhotenská sukně balonová Sabina, černá M/L;471;6
 2685;8595680524448;Těhotenská sukně balonová Sabina, černá L/XL;471;17
-2686;8595680524509;Těhotenská sukně balonová Sabina, hnědá S/M;410;10
+2686;8595680524509;Těhotenská sukně balonová Sabina, hnědá S/M;410;11
 2687;8595680524493;Těhotenská sukně balonová Sabina, hnědá M/L;410;10
 2688;8595680524486;Těhotenská sukně balonová Sabina, hnědá L/XL;410;13
 2689;8595680524585;Těhotenská sukně balonová Sabina, tmavě modrá (jeans) S/M;471;22
@@ -950,8 +951,8 @@ product id;EAN;name;price in CZK;# on stock
 3446;8595680525568;Dívčí (dětská) sukně,  CAFFE LATTE (BÉŽOVÁ), velikost 140;247;4
 3447;8595680525681;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 86;230;1
 3448;8595680525698;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 92;230;6
-3449;8595680525704;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 98;230;5
-3450;8595680525612;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 104;230;12
+3449;8595680525704;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 98;230;6
+3450;8595680525612;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 104;230;13
 3451;8595680525629;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 110;230;12
 3452;8595680525636;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 116;247;8
 3453;8595680525643;Dívčí (dětská) sukně,  LEVANDULOVÁ (světle fialová), velikost 122;247;11
@@ -1026,7 +1027,7 @@ product id;EAN;name;price in CZK;# on stock
 7755;8595680527289;Nosící svetr Radka (přední/zadní nošení), šedý melír L/XL;2174;4
 7756;8595680527340;Nosící svetr Radka (přední/zadní nošení), tyrkysový S/M;2174;2
 7757;8595680527333;Nosící svetr Radka (přední/zadní nošení), tyrkysový M/L;2174;10
-198;8595680527869;Těhotenské tílko Tatiana, černé S/M;426;1
+198;8595680527869;Těhotenské tílko Tatiana, černé S/M;426;2
 199;8595680527845;Těhotenské tílko Tatiana, černé L/XL;426;3
 2584;8595680527852;Těhotenské tílko Tatiana, černé M/L;426;7
 200;8595680527906;Těhotenské tílko Tatiana, hnědé S/M;370;8
@@ -1056,7 +1057,7 @@ product id;EAN;name;price in CZK;# on stock
 2590;8595680528293;Těhotenské tílko Tatiana, tyrkysové M/L;370;27
 414;8595680528347;Těhotenské tričko Johanka, 3/4 rukáv, BÍLÁ S/M;426;5
 415;8595680528323;Těhotenské tričko Johanka, 3/4 rukáv, BÍLÁ L/XL;426;9
-2139;8595680528330;Těhotenské tričko Johanka, 3/4 rukáv, BÍLÁ M/L;426;24
+2139;8595680528330;Těhotenské tričko Johanka, 3/4 rukáv, BÍLÁ M/L;426;25
 417;8595680528446;Těhotenské tričko Johanka, 3/4 rukáv, ČERNÁ S/M;426;23
 418;8595680528422;Těhotenské tričko Johanka, 3/4 rukáv, ČERNÁ L/XL;426;13
 2140;8595680528439;Těhotenské tričko Johanka, 3/4 rukáv, ČERNÁ M/L;426;14
@@ -1064,11 +1065,11 @@ product id;EAN;name;price in CZK;# on stock
 21;8595680528460;Těhotenské tričko Johanka, 3/4 rukáv, hnědé, L/XL;426;11
 22;8595680528491;Těhotenské tričko Johanka, 3/4 rukáv, hnědé, XXL/XXXL;518;1
 2146;8595680528477;Těhotenské tričko Johanka, 3/4 rukáv, hnědé, M/L;426;13
-94;8595680528538;Těhotenské tričko Johanka, 3/4 rukáv, ČERVENÁ S/M;426;12
+94;8595680528538;Těhotenské tričko Johanka, 3/4 rukáv, ČERVENÁ S/M;426;14
 95;8595680528514;Těhotenské tričko Johanka, 3/4 rukáv, ČERVENÁ L/XL;426;13
 2147;8595680528521;Těhotenské tričko Johanka, 3/4 rukáv, ČERVENÁ M/L;426;16
 183;8595680528590;Těhotenské tričko Johanka, 3/4 rukáv, CAFFE LATTE XXL/XXXL;450;9
-420;8595680528637;Těhotenské tričko Johanka, 3/4 rukáv, LEVANDULOVÁ S/M;426;13
+420;8595680528637;Těhotenské tričko Johanka, 3/4 rukáv, LEVANDULOVÁ S/M;426;14
 421;8595680528613;Těhotenské tričko Johanka, 3/4 rukáv, LEVANDULOVÁ L/XL;426;12
 422;8595680528644;Těhotenské tričko Johanka, 3/4 rukáv, LEVANDULOVÁ XXL/XXXL;518;4
 2141;8595680528620;Těhotenské tričko Johanka, 3/4 rukáv, LEVANDULOVÁ M/L;426;14
@@ -1093,7 +1094,7 @@ product id;EAN;name;price in CZK;# on stock
 333;8595680529078;Těhotenské tričko Johanka, dlouhý rukáv, bílé S/M;426;28
 334;8595680529054;Těhotenské tričko Johanka, dlouhý rukáv, bílé L/XL;426;11
 335;8595680529085;Těhotenské tričko Johanka, dlouhý rukáv, bílé XXL/XXXL;518;3
-2126;8595680529061;Těhotenské tričko Johanka, dlouhý rukáv, bílé M/L;426;16
+2126;8595680529061;Těhotenské tričko Johanka, dlouhý rukáv, bílé M/L;426;17
 103;8595680529122;Těhotenské tričko Johanka, dlouhý rukáv, bordo S/M;426;34
 104;8595680529108;Těhotenské tričko Johanka, dlouhý rukáv, bordo L/XL;426;19
 105;8595680529139;Těhotenské tričko Johanka, dlouhý rukáv, bordo XXL/XXXL;518;4
@@ -1141,21 +1142,21 @@ product id;EAN;name;price in CZK;# on stock
 85;8595680530067;Těhotenské tričko Johanka, krátký rukáv, bordo S/M;426;5
 86;8595680530043;Těhotenské tričko Johanka, krátký rukáv, bordo L/XL;426;15
 87;8595680530074;Těhotenské tričko Johanka, krátký rukáv, bordo XXL/XXXL;518;4
-2104;8595680530050;Těhotenské tričko Johanka, krátký rukáv, bordo M/L;426;12
+2104;8595680530050;Těhotenské tričko Johanka, krátký rukáv, bordo M/L;426;13
 354;8595680530111;Těhotenské tričko Johanka, krátký rukáv, černé S/M;426;16
 2343;8595680530104;Těhotenské tričko Johanka, krátký rukáv, černé M/L;426;16
 26;8595680530166;Těhotenské tričko Johanka, krátký rukáv, hnědé S/M;426;30
 27;8595680530142;Těhotenské tričko Johanka, krátký rukáv, hnědé L/XL;426;17
 28;8595680530173;Těhotenské tričko Johanka, krátký rukáv, hnědé XXL/XXXL;518;2
 2138;8595680530159;Těhotenské tričko Johanka, krátký rukáv, hnědé M/L;426;19
-83;8595680530210;Těhotenské tričko Johanka, krátký rukáv, červené S/M;426;4
+83;8595680530210;Těhotenské tričko Johanka, krátký rukáv, červené S/M;426;5
 84;8595680530197;Těhotenské tričko Johanka, krátký rukáv, červené L/XL;426;13
 158;8595680530241;Těhotenské tričko Johanka, krátký rukáv, béžové (caffe latte) L/XL;370;5
 369;8595680530319;Těhotenské tričko Johanka, krátký rukáv, levandulově fialové S/M;426;23
 370;8595680530296;Těhotenské tričko Johanka, krátký rukáv, levandulově fialové L/XL;426;16
 371;8595680530326;Těhotenské tričko Johanka, krátký rukáv, levandulově fialové XXL/XXXL;518;13
 2347;8595680530302;Těhotenské tričko Johanka, krátký rukáv, levandulově fialové M/L;426;22
-348;8595680530364;Těhotenské tričko Johanka, krátký rukáv, lososově růžové S/M;426;3
+348;8595680530364;Těhotenské tričko Johanka, krátký rukáv, lososově růžové S/M;426;4
 349;8595680530340;Těhotenské tričko Johanka, krátký rukáv, lososově růžové L/XL;426;17
 350;8595680530371;Těhotenské tričko Johanka, krátký rukáv, lososově růžové XXL/XXXL;518;2
 2097;8595680530357;Těhotenské tričko Johanka, krátký rukáv, lososově růžové M/L;426;3
@@ -1163,7 +1164,7 @@ product id;EAN;name;price in CZK;# on stock
 364;8595680530494;Těhotenské tričko Johanka, krátký rukáv, světle zelené L/XL;426;10
 365;8595680530524;Těhotenské tričko Johanka, krátký rukáv, světle zelené XXL/XXXL;518;1
 2101;8595680530500;Těhotenské tričko Johanka, krátký rukáv, světle zelené M/L;426;17
-360;8595680530760;Těhotenské tričko Johanka, krátký rukáv, tmavě modré S/M;426
+360;8595680530760;Těhotenské tričko Johanka, krátký rukáv, tmavě modré S/M;426;1
 361;8595680530746;Těhotenské tričko Johanka, krátký rukáv, tmavě modré L/XL;426;3
 362;8595680530777;Těhotenské tričko Johanka, krátký rukáv, tmavě modré XXL/XXXL;518;6
 154;8595680530869;Těhotenské tričko Johanka, krátký rukáv, tyrkysové S/M;426;1
@@ -1191,7 +1192,7 @@ product id;EAN;name;price in CZK;# on stock
 2157;8595680531224;Těhotenské tričko Johanka, mini rukáv, levandulově fialové M/L;426;5
 387;8595680531286;Těhotenské tričko Johanka, mini rukáv, lososově růžové S/M;426;12
 389;8595680531293;Těhotenské tričko Johanka, mini rukáv, lososově růžové XXL/XXXL;518;6
-2159;8595680531279;Těhotenské tričko Johanka, mini rukáv, lososově růžové M/L;426;1
+2159;8595680531279;Těhotenské tričko Johanka, mini rukáv, lososově růžové M/L;426;2
 1682;8595680531316;Těhotenské tričko Johanka, mini rukáv, světle modré L/XL;370;8
 2154;8595680531323;Těhotenské tričko Johanka, mini rukáv, světle modré M/L;370;1
 140;8595680531361;Těhotenské tričko Johanka, mini rukáv, světle růžové L/XL;370;9
@@ -1205,8 +1206,8 @@ product id;EAN;name;price in CZK;# on stock
 138;8595680531538;Těhotenské tričko Johanka, mini rukáv, tmavě zelené XXL/XXXL;450;2
 385;8595680531606;Těhotenské tričko Johanka, mini rukáv, žlutooranžové L/XL;370;6
 386;8595680531637;Těhotenské tričko Johanka, mini rukáv, žlutooranžové XXL/XXXL;450;2
-390;8595680531675;Těhotenské tílko Johanka, bílé S/M;426;1
-2535;8595680531668;Těhotenské tílko Johanka, bílé M/L;426;11
+390;8595680531675;Těhotenské tílko Johanka, bílé S/M;426;2
+2535;8595680531668;Těhotenské tílko Johanka, bílé M/L;426;12
 91;8595680531729;Těhotenské tílko Johanka, bordo S/M;426;3
 92;8595680531705;Těhotenské tílko Johanka, bordo L/XL;426;14
 2545;8595680531712;Těhotenské tílko Johanka, bordo M/L;426;4
@@ -1236,7 +1237,7 @@ product id;EAN;name;price in CZK;# on stock
 2539;8595680532160;Těhotenské tílko Johanka, světle zelené M/L;426;17
 161;8595680532252;Těhotenské tílko Johanka, tmavě zelené L/XL;370;3
 2546;8595680532269;Těhotenské tílko Johanka, tmavě zelené M/L;370;12
-166;8595680532320;Těhotenské tílko Johanka, tyrkysové S/M;426;8
+166;8595680532320;Těhotenské tílko Johanka, tyrkysové S/M;426;9
 167;8595680532306;Těhotenské tílko Johanka, tyrkysové L/XL;426;7
 2548;8595680532313;Těhotenské tílko Johanka, tyrkysové M/L;426;11
 406;8595680532351;Těhotenské tílko Johanka, žlutooranžové L/XL;370;2
@@ -1301,8 +1302,8 @@ product id;EAN;name;price in CZK;# on stock
 651;8595680535444;Dětské tričko s dlouhým rukávem, bordo 134;110;6
 1283;8595680535451;Dětské tričko s dlouhým rukávem, bordo 140;110;8
 619;8595680535598;dětské tričko DLOUHÝ RUKÁV s elastanem, ČERNÁ 74;110;1
-629;8595680535574;dětské tričko DLOUHÝ RUKÁV s elastanem, ČERNÁ 134;110;2
-1281;8595680535581;dětské tričko DLOUHÝ RUKÁV s elastanem, ČERNÁ 140;110;3
+629;8595680535574;dětské tričko DLOUHÝ RUKÁV s elastanem, ČERNÁ 134;110;3
+1281;8595680535581;dětské tričko DLOUHÝ RUKÁV s elastanem, ČERNÁ 140;110;4
 663;8595680535710;dětské tričko DLOUHÝ RUKÁV s elastanem, ČOKO HNĚDÁ 74;110;6
 664;8595680535727;dětské tričko DLOUHÝ RUKÁV s elastanem, ČOKO HNĚDÁ 80;110;7
 665;8595680535734;dětské tričko DLOUHÝ RUKÁV s elastanem, ČOKO HNĚDÁ 86;110;4
@@ -1375,8 +1376,8 @@ product id;EAN;name;price in CZK;# on stock
 2621;8595680538087;Těhotenské tričko s netopýřími rukávy Nikola, krátký rukáv, růžová M/L;287;2
 2622;8595680538070;Těhotenské tričko s netopýřími rukávy Nikola, krátký rukáv, růžová L/XL;287;2
 2646;8595680538261;Těhotenské tričko s netopýřími rukávy Nikola, krátký rukáv, tyrkysová L/XL;287;4
-462;8595680538414;Těhotenská a kojicí tunika Anička, dlouhý rukáv, černá S/M;437;12
-463;8595680538391;Těhotenská a kojicí tunika Anička, dlouhý rukáv, černá L/XL;437;7
+462;8595680538414;Těhotenská a kojicí tunika Anička, dlouhý rukáv, černá S/M;437;13
+463;8595680538391;Těhotenská a kojicí tunika Anička, dlouhý rukáv, černá L/XL;437;8
 2371;8595680538407;Těhotenská a kojicí tunika Anička, dlouhý rukáv, černá M/L;437;9
 464;8595680538452;Těhotenská a kojicí tunika Anička, dlouhý rukáv, hnědá S/M;380;2
 465;8595680538438;Těhotenská a kojicí tunika Anička, dlouhý rukáv, hnědá L/XL;380;1
@@ -1387,7 +1388,7 @@ product id;EAN;name;price in CZK;# on stock
 287;8595680538551;Těhotenská a kojicí tunika Anička, dlouhý rukáv, růžová L/XL;380;1
 468;8595680538612;Těhotenská a kojicí tunika Anička, dlouhý rukáv, šedý melír S/M;460;16
 469;8595680538599;Těhotenská a kojicí tunika Anička, dlouhý rukáv, šedý melír L/XL;460;18
-2375;8595680538605;Těhotenská a kojicí tunika Anička, dlouhý rukáv, šedý melír M/L;460;15
+2375;8595680538605;Těhotenská a kojicí tunika Anička, dlouhý rukáv, šedý melír M/L;460;16
 471;8595680538636;Těhotenská a kojicí tunika Anička, dlouhý rukáv, světle fialová L/XL;380;4
 474;8595680538735;Těhotenská a kojicí tunika Anička, dlouhý rukáv, švestkově fialová S/M;437;9
 475;8595680538711;Těhotenská a kojicí tunika Anička, dlouhý rukáv, švestkově fialová L/XL;437;11
@@ -1395,30 +1396,30 @@ product id;EAN;name;price in CZK;# on stock
 478;8595680538810;Těhotenská a kojicí tunika Anička, dlouhý rukáv, sytě růžová S/M;437;16
 479;8595680538797;Těhotenská a kojicí tunika Anička, dlouhý rukáv, sytě růžová L/XL;437;14
 2380;8595680538803;Těhotenská a kojicí tunika Anička, dlouhý rukáv, sytě růžová M/L;437;15
-480;8595680538858;Těhotenská a kojicí tunika Anička, dlouhý rukáv, tmavý tyrkys S/M;437;9
+480;8595680538858;Těhotenská a kojicí tunika Anička, dlouhý rukáv, tmavý tyrkys S/M;437;10
 481;8595680538834;Těhotenská a kojicí tunika Anička, dlouhý rukáv, tmavý tyrkys L/XL;437;5
 2381;8595680538841;Těhotenská a kojicí tunika Anička, dlouhý rukáv, tmavý tyrkys M/L;437;13
-223;8595680538933;Těhotenská a kojicí tunika Anička, krátký rukáv, černá S/M;426;19
+223;8595680538933;Těhotenská a kojicí tunika Anička, krátký rukáv, černá S/M;426;21
 224;8595680538919;Těhotenská a kojicí tunika Anička, krátký rukáv, černá L/XL;426;8
 2383;8595680538926;Těhotenská a kojicí tunika Anička, krátký rukáv, černá M/L;426;22
 231;8595680539138;Těhotenská a kojicí tunika Anička, krátký rukáv, šedý melír S/M;449;25
 232;8595680539114;Těhotenská a kojicí tunika Anička, krátký rukáv, šedý melír L/XL;449;18
 2387;8595680539121;Těhotenská a kojicí tunika Anička, krátký rukáv, šedý melír M/L;449;17
 235;8595680539213;Těhotenská a kojicí tunika Anička, krátký rukáv, smetanová S/M;426;22
-236;8595680539190;Těhotenská a kojicí tunika Anička, krátký rukáv, smetanová L/XL;426;14
+236;8595680539190;Těhotenská a kojicí tunika Anička, krátký rukáv, smetanová L/XL;426;15
 2389;8595680539206;Těhotenská a kojicí tunika Anička, krátký rukáv, smetanová M/L;426;23
-237;8595680539251;Těhotenská a kojicí tunika Anička, krátký rukáv, švestkově fialová S/M;426;12
+237;8595680539251;Těhotenská a kojicí tunika Anička, krátký rukáv, švestkově fialová S/M;426;13
 238;8595680539237;Těhotenská a kojicí tunika Anička, krátký rukáv, švestkově fialová L/XL;426;5
 2390;8595680539244;Těhotenská a kojicí tunika Anička, krátký rukáv, švestkově fialová M/L;426;29
 241;8595680539336;Těhotenská a kojicí tunika Anička, krátký rukáv, sytě růžová S/M;426;20
 242;8595680539312;Těhotenská a kojicí tunika Anička, krátký rukáv, sytě růžová L/XL;426;9
-2392;8595680539329;Těhotenská a kojicí tunika Anička, krátký rukáv, sytě růžová M/L;426;18
+2392;8595680539329;Těhotenská a kojicí tunika Anička, krátký rukáv, sytě růžová M/L;426;19
 243;8595680539374;Těhotenská a kojicí tunika Anička, krátký rukáv, tmavý tyrkys S/M;426;27
 244;8595680539350;Těhotenská a kojicí tunika Anička, krátký rukáv, tmavý tyrkys L/XL;426;17
 2393;8595680539367;Těhotenská a kojicí tunika Anička, krátký rukáv, tmavý tyrkys M/L;426;15
-1814;8595680539534;Těhotenské turecké kalhoty, tmavě modré (jeans) S/M;592;16
+1814;8595680539534;Těhotenské turecké kalhoty, tmavě modré (jeans) S/M;592;18
 1815;8595680539510;TURECKÉ KALHOTY nejen pro těhotné, TM. MODRÁ ( "jeans" ) L/XL;592;4
-2598;8595680539527;TURECKÉ KALHOTY nejen pro těhotné, TM. MODRÁ ( "jeans" ) M/L;592;5
+2598;8595680539527;TURECKÉ KALHOTY nejen pro těhotné, TM. MODRÁ ( "jeans" ) M/L;592;6
 1817;8595680539558;Těhotenské turecké kalhoty, růžové L/XL;592;3
 2599;8595680539565;Těhotenské turecké kalhoty, růžové M/L;592;10
 1818;8595680539657;Těhotenské turecké kalhoty, světle fialové S/M;592;4
@@ -1548,11 +1549,11 @@ product id;EAN;name;price in CZK;# on stock
 1446;8595680542015;Těhotenské tričko Vanda, mini rukáv, tyrkysové L/XL;370;3
 2339;8595680542022;Těhotenské tričko Vanda, mini rukáv, tyrkysové M/L;370;1
 12229;8595680520860;Těhotenské a kojicí pyžamo, dlouhé, tyrkys L/XL;735;6
-12232;8595680520808;Těhotenské a kojicí pyžamo, dlouhé, sytě růžové+švestka S/M;735;10
+12232;8595680520808;Těhotenské a kojicí pyžamo, dlouhé, sytě růžové+švestka S/M;735;11
 12233;8595680520792;Těhotenské a kojicí pyžamo, dlouhé, sytě růžové+švestka M/L;735;9
 12234;8595680520785;Těhotenské a kojicí pyžamo, dlouhé, sytě růžové+švestka L/XL;735;5
 12244;8595680520846;Těhotenské a kojicí pyžamo, dlouhé, petrolejové+šedý melír S/M;790;14
-12245;8595680520839;Těhotenské a kojicí pyžamo, dlouhé, petrolejové+šedý melír M/L;790;12
+12245;8595680520839;Těhotenské a kojicí pyžamo, dlouhé, petrolejové+šedý melír M/L;790;13
 12246;8595680520822;Těhotenské a kojicí pyžamo, dlouhé, petrolejové+šedý melír L/XL;790;5
 12248;8595680520761;Těhotenské a kojicí pyžamo, dlouhé, švestkově fialové+šedý melír S/M;790;17
 12249;8595680520754;Těhotenské a kojicí pyžamo, dlouhé, švestkově fialové+šedý melír M/L;790;15
@@ -1564,7 +1565,7 @@ product id;EAN;name;price in CZK;# on stock
 12269;8595680509537;Kojící noční košile Eva, krátký rukáv, švestkově fialová M/L;525;11
 12270;8595680509520;Kojící noční košile Eva, krátký rukáv, švestkově fialová L/XL;525;10
 12276;8595680509506;Kojící noční košile Eva, krátký rukáv, šedý melír S/M;555;14
-12277;8595680509490;Kojící noční košile Eva, krátký rukáv, šedý melír M/L;555;15
+12277;8595680509490;Kojící noční košile Eva, krátký rukáv, šedý melír M/L;555;14
 12278;8595680509483;Kojící noční košile Eva, krátký rukáv, šedý melír L/XL;555;13
 12280;8595680509469;Kojící noční košile Eva, krátký rukáv, tmavě modrá (jeans) S/M;525;10
 12281;8595680509452;Kojící noční košile Eva, krátký rukáv, tmavě modrá (jeans) M/L;525;5
@@ -1629,12 +1630,12 @@ product id;EAN;name;price in CZK;# on stock
 12456;8595680520921;Těhotenské a kojicí pyžamo, krátké, jeans modrá+šedý melír S/M;650;6
 12457;8595680520914;Těhotenské a kojicí pyžamo, krátké, jeans modrá+šedý melír M/L;650;27
 12458;8595680520907;Těhotenské a kojicí pyžamo, krátké, jeans modrá+šedý melír L/XL;650;5
-12472;8595680524226;Těhotenská sukně Jolana, černá S/M;402;5
+12472;8595680524226;Těhotenská sukně Jolana, černá S/M;402;6
 12473;8595680524219;Těhotenská sukně Jolana, černá M/L;402;3
 12476;8595680524264;Těhotenská sukně Jolana, hnědá S/M;402;17
 12477;8595680524257;Těhotenská sukně Jolana, hnědá M/L;402;14
 12478;8595680524240;Těhotenská sukně Jolana, hnědá L/XL;402;18
-12484;8595680524189;Těhotenská sukně Jolana, bordo S/M;402;9
+12484;8595680524189;Těhotenská sukně Jolana, bordo S/M;402;10
 12485;8595680524172;Těhotenská sukně Jolana, bordo M/L;402;7
 12486;8595680524165;Těhotenská sukně Jolana, bordo L/XL;402;17
 12492;8595680524301;Těhotenská sukně Jolana, lososově růžová S/M;402;8
@@ -1649,7 +1650,7 @@ product id;EAN;name;price in CZK;# on stock
 12528;8595680523601;Softshellová těhotenská a nosící bunda Pavla 2, antracitová (tmavě šedá) S/M;2190;6
 12529;8595680523595;Softshellová těhotenská a nosící bunda Pavla 2, antracitová (tmavě šedá) M/L;2190;5
 12530;8595680523588;Softshellová těhotenská a nosící bunda Pavla 2, antracitová (tmavě šedá) L/XL;2190;4
-12532;8595680523861;Softshellová těhotenská a nosící bunda Pavla 2, tmavě modrá S/M;2403;6
+12532;8595680523861;Softshellová těhotenská a nosící bunda Pavla 2, tmavě modrá S/M;2403;5
 12533;8595680523854;Softshellová těhotenská a nosící bunda Pavla 2, tmavě modrá M/L;2403;12
 13075;8595680545481;Softshellová těhotenská a nosící bunda Pavla 2, tmavě modrá XS/S;2403;14
 12540;8595680523724;Softshellová těhotenská a nosící bunda Pavla 2, petrolejová S/M;2403;11
@@ -1659,7 +1660,7 @@ product id;EAN;name;price in CZK;# on stock
 12544;8595680523908;Softshellová těhotenská a nosící bunda Pavla 2, tyrkysová S/M;2190;11
 12545;8595680523892;Softshellová těhotenská a nosící bunda Pavla 2, tyrkysová M/L;2190;25
 12546;8595680523885;Softshellová těhotenská a nosící bunda Pavla 2, tyrkysová L/XL;2190;4
-12548;8595680523762;Softshellová těhotenská a nosící bunda Pavla 2, šedý melír S/M;2403;1
+12548;8595680523762;Softshellová těhotenská a nosící bunda Pavla 2, šedý melír S/M;2403;2
 12549;8595680523755;Softshellová těhotenská a nosící bunda Pavla 2, šedý melír M/L;2403;3
 12550;8595680523748;Softshellová těhotenská a nosící bunda Pavla 2, šedý melír L/XL;2403;3
 12553;8595680523939;Softshellová těhotenská a nosící bunda Pavla 2, vínový melír M/L;2190;23
@@ -1681,10 +1682,10 @@ product id;EAN;name;price in CZK;# on stock
 12635;8595680506260;Nosící fleece mikina Nela (přední/zadní nošení), tmavě modrá L/XL;1599;6
 12650;8595680542237;Zimní těhotenská a nosící bunda Zora, modrá L/XL;3438;5
 12651;8595680542244;Zimní těhotenská a nosící bunda Zora, modrá M/L;3438;10
-12652;8595680542824;Dámské tričko Brigita, krátký rukáv, tyrkys S/M;391;13
+12652;8595680542824;Dámské tričko Brigita, krátký rukáv, tyrkys S/M;391;14
 12653;8595680542817;Dámské tričko Brigita, krátký rukáv, tyrkys M/L;391;24
 12654;8595680542800;Dámské tričko Brigita, krátký rukáv, tyrkys L/XL;391;14
-12657;8595680542749;Dámské tričko Brigita, krátký rukáv, světle zelená, S/M;391;21
+12657;8595680542749;Dámské tričko Brigita, krátký rukáv, světle zelená, S/M;391;22
 12658;8595680542732;Dámské tričko Brigita, krátký rukáv, světle zelená, M/L;391;24
 12659;8595680542725;Dámské tričko Brigita krátký rukáv, světle zelená, L/XL;391;12
 12661;8595680542589;ámské tričko Brigita, krátký rukáv, bílá, S/M;391;13
@@ -1717,16 +1718,16 @@ product id;EAN;name;price in CZK;# on stock
 12710;8595680542374;Dámské tričko Brigita, dlouhý rukáv, černá M/L;391;11
 12711;8595680542367;Dámské tričko Brigita, dlouhý rukáv, černá L/XL;391;11
 12765;8595680543128;Kojicí tílko Kateřina, bílé, S/M;426;11
-12766;8595680543111;Kojicí tílko Kateřina, bílé, M/L;426;21
+12766;8595680543111;Kojicí tílko Kateřina, bílé, M/L;426;22
 12767;8595680543104;Kojicí tílko Kateřina, bílé, L/XL;426;18
 13055;8595680545214;Kojicí tílko Kateřina, bílé, XS/S;426;9
 12769;8595680543166;Kojicí tílko Kateřina, bordo (vínové), S/M;426;18
-12770;8595680543159;Kojicí tílko Kateřina, bordo (vínové), M/L;426;12
+12770;8595680543159;Kojicí tílko Kateřina, bordo (vínové), M/L;426;13
 12771;8595680543142;Kojicí tílko Kateřina, bordo (vínové), L/XL;426;6
 13056;8595680545221;Kojicí tílko Kateřina, bordo (vínové), XS/S;426;12
-12773;8595680543180;Kojicí tílko Kateřina, černé, L/XL;426;5
-12774;8595680543197;Kojicí tílko Kateřina, černé, M/L;426;21
-12775;8595680543203;Kojicí tílko Kateřina, černé, S/M;426;3
+12773;8595680543180;Kojicí tílko Kateřina, černé, L/XL;426;6
+12774;8595680543197;Kojicí tílko Kateřina, černé, M/L;426;23
+12775;8595680543203;Kojicí tílko Kateřina, černé, S/M;426;4
 12777;8595680543227;Kojicí tílko Kateřina, čokoládově hnědé, L/XL;426;10
 12778;8595680543234;Kojicí tílko Kateřina, čokoládově hnědé, M/L;426;4
 12779;8595680543241;Kojicí tílko Kateřina, čokoládově hnědé, S/M;426;13
@@ -1736,20 +1737,20 @@ product id;EAN;name;price in CZK;# on stock
 12783;8595680543289;Kojicí tílko Kateřina, červené, S/M;426;14
 13059;8595680545252;Kojicí tílko Kateřina, červené, XS/S;426;18
 12785;8595680543302;Kojicí tílko Kateřina, levandulové (světle fialové), L/XL;426;27
-12786;8595680543319;Kojicí tílko Kateřina, levandulové (světle fialové), M/L;426;29
+12786;8595680543319;Kojicí tílko Kateřina, levandulové (světle fialové), M/L;426;30
 12787;8595680543326;Kojicí tílko Kateřina, levandulové (světle fialové), S/M;426;13
 13060;8595680545269;Kojicí tílko Kateřina, levandulové (světle fialové), XS/S;426;23
 12789;8595680543340;Kojicí tílko Kateřina, lososově růžové, L/XL;426;29
-12790;8595680543357;Kojicí tílko Kateřina, lososově růžové, M/L;426;33
-12791;8595680543364;Kojicí tílko Kateřina, lososově růžové, S/M;426;19
-13061;8595680545276;Kojicí tílko Kateřina, lososově růžové, XS/S;426;15
-12797;8595680543425;Kojicí tílko Kateřina, tmavě modré, L/XL;426;10
-12798;8595680543432;Kojicí tílko Kateřina, tmavě modré, M/L;426;26
-12799;8595680543449;Kojicí tílko Kateřina, tmavě modré, S/M;426;25
+12790;8595680543357;Kojicí tílko Kateřina, lososově růžové, M/L;426;34
+12791;8595680543364;Kojicí tílko Kateřina, lososově růžové, S/M;426;18
+13061;8595680545276;Kojicí tílko Kateřina, lososově růžové, XS/S;426;16
+12797;8595680543425;Kojicí tílko Kateřina, tmavě modré, L/XL;426;11
+12798;8595680543432;Kojicí tílko Kateřina, tmavě modré, M/L;426;27
+12799;8595680543449;Kojicí tílko Kateřina, tmavě modré, S/M;426;27
 13063;8595680545290;Kojicí tílko Kateřina, tmavě modré, XS/S;426;11
-12801;8595680543463;Kojicí tílko Kateřina, tyrkysové, L/XL;426;13
+12801;8595680543463;Kojicí tílko Kateřina, tyrkysové, L/XL;426;12
 12802;8595680543470;Kojicí tílko Kateřina, tyrkysové, M/L;426;22
-12803;8595680543487;Kojicí tílko Kateřina, tyrkysové, S/M;426;19
+12803;8595680543487;Kojicí tílko Kateřina, tyrkysové, S/M;426;20
 13064;8595680545306;Kojicí tílko Kateřina, tyrkysové, XS/S;426;10
 12807;8595680543869;Nosící fleece mikina Nela (přední/zadní nošení), sytě růžová 2, M/L;1599;4
 12978;8595680544323;Kojicí tílko Kateřina, fialové vzorované (TISK01), S/M;426;6
@@ -1774,6 +1775,7 @@ product id;EAN;name;price in CZK;# on stock
 13101;8595680545641;Softshellové botičky, zimní capáčky, fuchsiová/černá, 0-6m.;592;5
 13102;8595680545672;Softshellové botičky, zimní capáčky, fuchsiová/černá, 6-12m.;592;1
 13106;8595680545696;Softshellové botičky, zimní capáčky, petrolej/tyrkys, 0-6m.;592;7
+13107;8595680545726;Softshellové botičky, zimní capáčky, petrolej/tyrkys, 6-12m.;592;1
 13108;8595680545702;Softshellové botičky, zimní capáčky, petrolej/tyrkys, 12-18m.;592;5
 13111;8595680545597;Softshellové botičky, zimní capáčky, antracit/fialková, 0-6m.;592;1
 13117;8595680546051;Dětské softshellové kalhoty s náplety a regulací pasu, antracitové (šedé), velikost 86;483;7
@@ -1791,12 +1793,12 @@ product id;EAN;name;price in CZK;# on stock
 13161;8595680546198;Dětské softshellové kalhoty s náplety a regulací pasu, černé, velikost 104;483;20
 13162;8595680546204;Dětské softshellové kalhoty s náplety a regulací pasu, černé, velikost 110;483;17
 13163;8595680546211;Dětské softshellové kalhoty s regulací pasu, černé, velikost 116;540;5
-13164;8595680546228;Dětské softshellové kalhoty s náplety a regulací pasu, černé, velikost 122;540;7
+13164;8595680546228;Dětské softshellové kalhoty s náplety a regulací pasu, černé, velikost 122;540;8
 13165;8595680546235;Dětské softshellové kalhoty s náplety a regulací pasu, černé, velikost 128;540;6
 13166;8595680546242;Dětské softshellové kalhoty s náplety a regulací pasu, černé, velikost 134;540;5
 16277;8595680566912;Dětské softshellové kalhoty s náplety a regulací pasu, černé, velikost 140;540;11
 13168;8595680546150;Dětské softshellové kalhoty s náplety a regulací pasu, béžové, velikost 86;483;3
-13169;8595680546167;Dětské softshellové kalhoty s náplety a regulací pasu, béžové, velikost 92;483;4
+13169;8595680546167;Dětské softshellové kalhoty s náplety a regulací pasu, béžové, velikost 92;483;5
 13170;8595680546174;Dětské softshellové kalhoty s náplety a regulací pasu, béžové, velikost 98;483;6
 13171;8595680546099;Dětské softshellové kalhoty s náplety a regulací pasu, béžové, velikost 104;483;5
 13172;8595680546105;Dětské softshellové kalhoty s náplety a regulací pasu, béžové, velikost 110;483;2
@@ -1871,7 +1873,7 @@ product id;EAN;name;price in CZK;# on stock
 251;8595680511028;Kojicí noční košile Lucie, dlouhý rukáv, tmavě modrá (jeans) L/XL;535;11
 252;8595680511059;Kojicí noční košile Lucie, dlouhý rukáv, tmavě modrá (jeans) XXL/XXXL;560;3
 2226;8595680511035;Kojicí noční košile Lucie, dlouhý rukáv, tmavě modrá (jeans) M/L;535;16
-3738;8595680511967;JANA- krajková noční košile pro těhotné a kojící, švestková S/M;633;13
+3738;8595680511967;JANA- krajková noční košile pro těhotné a kojící, švestková S/M;633;14
 3740;8595680511943;JANA- krajková noční košile pro těhotné a kojící, švestková L/XL;633;2
 68;8595680512384;Kojicí noční košile Lucie, krátký rukáv, sytě růžová, S/M;525;7
 69;8595680512360;Kojicí noční košile Lucie, krátký rukáv, sytě růžová, L/XL;525;8
@@ -1882,7 +1884,7 @@ product id;EAN;name;price in CZK;# on stock
 2363;8595680512926;Kojicí tričko Kateřina, 3/4 rukáv, světle zelené M/L;437;23
 1407;8595680513824;Kojicí tričko Kateřina, dlouhý rukáv, tmavě modré, S/M;437;33
 1408;8595680513800;Kojicí tričko Kateřina, dlouhý rukáv, tmavě modré, L/XL;437;17
-2265;8595680513817;Kojicí tričko Kateřina, dlouhý rukáv, tmavě modré, M/L;437;30
+2265;8595680513817;Kojicí tričko Kateřina, dlouhý rukáv, tmavě modré, M/L;437;31
 13043;8595680545092;Kojicí tričko Kateřina, dlouhý rukáv, tmavě modré, XS/S;437;10
 1627;8595680514265;Kojicí tričko Kateřina, krátký rukáv, lososově růžové S/M;426;24
 1628;8595680514241;Kojicí tričko Kateřina, krátký rukáv, lososově růžové L/XL;426;22
@@ -1906,8 +1908,8 @@ product id;EAN;name;price in CZK;# on stock
 753;8595680517174;LEGÍNY dětské, bordo 128;185;8
 754;8595680517181;LEGÍNY dětské, bordo 134;185;6
 1294;8595680517198;LEGÍNY dětské, bordo 140;185;7
-460;8595680517624;Těhotenské legíny, černé S/M;460;2
-461;8595680517600;Těhotenské legíny, černé L/XL;460;12
+460;8595680517624;Těhotenské legíny, černé S/M;460;1
+461;8595680517600;Těhotenské legíny, černé L/XL;460;15
 3196;8595680574481;Lněné dámské kalhoty, i pro těhotné, smetanové, vel.S, vnitřní délka nohavice 77cm;630;6
 3197;8595680518935;Lněné dámské kalhoty, i pro těhotné, smetanové, vel.S, vnitřní délka nohavice 82cm;724;1
 3198;8595680574443;Lněné dámské kalhoty, i pro těhotné, smetanové, vel.M, vnitřní délka nohavice 72cm;630;9
@@ -1920,7 +1922,7 @@ product id;EAN;name;price in CZK;# on stock
 7401;8595680519154;Bavlněná nosící mikina Miriam+těhotenská vsadka, černá/růžová S/M ;1765;5
 7402;8595680519147;Bavlněná nosící mikina Miriam+těhotenská vsadka, černá/růžová M/L;1765;1
 438;8595680519345;Těhotenský PÁS L/XL;287;7
-2238;8595680519352;Těhotenský PÁS M/L;287;1
+2238;8595680519352;Těhotenský PÁS M/L;287;2
 36;8595680520648;Pruhované těhotenské tričko Petra, šedo-růžové L/XL;402;6
 1802;8595680521669;Těhotenské šaty ŠARLOTA, ŠVESTKOVÁ S/M;471;14
 1803;8595680521645;Těhotenské šaty ŠARLOTA, ŠVESTKOVÁ L/XL;471;12
@@ -1954,7 +1956,7 @@ product id;EAN;name;price in CZK;# on stock
 357;8595680530012;Těhotenské tričko Johanka, krátký rukáv, bílé S/M;426;15
 358;8595680529993;Těhotenské tričko Johanka, krátký rukáv, bílé L/XL;426;28
 359;8595680530029;Těhotenské tričko Johanka, krátký rukáv, bílé XXL/XXXL;518;8
-2099;8595680530005;Těhotenské tričko Johanka, krátký rukáv, bílé M/L;426;19
+2099;8595680530005;Těhotenské tričko Johanka, krátký rukáv, bílé M/L;426;20
 142;8595680531576;Těhotenské tričko Johanka, mini rukáv, tyrkysové S/M;426;17
 143;8595680531552;Těhotenské tričko Johanka, mini rukáv, tyrkysové L/XL;426;4
 144;8595680531583;Těhotenské tričko Johanka, mini rukáv, tyrkysové XXL/XXXL;518;2
@@ -1972,7 +1974,7 @@ product id;EAN;name;price in CZK;# on stock
 630;8595680535345;dětské tričko DLOUHÝ RUKÁV s elastanem, BÍLÁ 74;110;2
 631;8595680535352;dětské tričko DLOUHÝ RUKÁV s elastanem, BÍLÁ 80;110;1
 640;8595680535321;dětské tričko DLOUHÝ RUKÁV s elastanem, BÍLÁ 134;110;12
-1282;8595680535338;dětské tričko DLOUHÝ RUKÁV s elastanem, BÍLÁ 140;110;6
+1282;8595680535338;dětské tričko DLOUHÝ RUKÁV s elastanem, BÍLÁ 140;110;7
 3009;8595680537127;dětské tričko s DR, tyrkysové, MIMOZEMŠŤAN 74;110;2
 3010;8595680537134;dětské tričko s DR, tyrkysové, MIMOZEMŠŤAN 80;110;1
 3011;8595680537141;dětské tričko s DR, tyrkysové, MIMOZEMŠŤAN 86;110;1
@@ -1985,8 +1987,8 @@ product id;EAN;name;price in CZK;# on stock
 227;8595680539053;Těhotenská a kojicí tunika Anička, krátký rukáv, tmavě modrá (jeans) S/M;426;23
 228;8595680539039;Těhotenská a kojicí tunika Anička, krátký rukáv, tmavě modrá (jeans) L/XL;426;17
 2385;8595680539046;Těhotenská a kojicí tunika Anička, krátký rukáv, tmavě modrá (jeans) M/L;426;18
-1810;8595680539459;Těhotenské turecké kalhoty, černé S/M;592;27
-1811;8595680539435;Těhotenské turecké kalhoty, černé L/XL;592;10
+1810;8595680539459;Těhotenské turecké kalhoty, černé S/M;592;28
+1811;8595680539435;Těhotenské turecké kalhoty, černé L/XL;592;11
 2596;8595680539442;Těhotenské turecké kalhoty, černé M/L;592;19
 306;8595680540493;Těhotenské tričko Vanda, 3/4 rukáv, sytě růžové S/M;426;12
 307;8595680540479;Těhotenské tričko Vanda, 3/4 rukáv, sytě růžové L/XL;426;21
@@ -2017,7 +2019,7 @@ product id;EAN;name;price in CZK;# on stock
 12480;8595680524349;Těhotenská sukně Jolana, tmavě modrá S/M;402;16
 12481;8595680524332;Těhotenská sukně Jolana, tmavě modrá M/L;402;13
 12482;8595680524325;Těhotenská sukně Jolana, tmavě modrá L/XL;402;15
-12504;8595680516870;Těhotenské legíny, 3/4, šedý melír S/M;506;19
+12504;8595680516870;Těhotenské legíny, 3/4, šedý melír S/M;506;20
 12505;8595680516856;Těhotenské legíny, 3/4, šedý melír L/XL;506;9
 12506;8595680516863;Těhotenské legíny, 3/4,  šedý melír M/L;506;18
 12536;8595680523687;Softshellová těhotenská a nosící bunda Pavla 2, fuchsiově růžová S/M;2403;8
@@ -2025,13 +2027,13 @@ product id;EAN;name;price in CZK;# on stock
 12538;8595680523663;Softshellová těhotenská a nosící bunda Pavla 2, fuchsiově růžová L/XL;2403;5
 13074;8595680545467;Softshellová těhotenská a nosící bunda Pavla 2, fuchsiově růžová XS/S;2403;6
 12580;8595680501081;BIO bavlněná mikina pro těhotné a nosící ženy Beáta, limetková S/M;1357;2
-12581;8595680501074;BIO bavlněná mikina pro těhotné a nosící ženy Beáta, limetková M/L;1357;8
+12581;8595680501074;BIO bavlněná mikina pro těhotné a nosící ženy Beáta, limetková M/L;1357;9
 12582;8595680501067;BIO bavlněná mikina pro těhotné a nosící ženy Beáta, limetková L/XL;1357;6
 12610;8595680542152;Zimní těhotenská a nosící bunda Zora, tmavě modrá S/M;3438;8
 12669;8595680542787;Dámské tričko Brigita, krátký rukáv, tmavě modrá, S/M;391;19
-12670;8595680542770;Dámské tričko Brigita, krátký rukáv, tmavě modrá, M/L;391;15
+12670;8595680542770;Dámské tričko Brigita, krátký rukáv, tmavě modrá, M/L;391;16
 12671;8595680542763;Dámské tričko Brigita, krátký rukáv, tmavě modrá, L/XL;391;12
-12793;8595680543388;Kojicí tílko Kateřina, světle zelené, L/XL;426;20
+12793;8595680543388;Kojicí tílko Kateřina, světle zelené, L/XL;426;19
 12794;8595680543395;Kojicí tílko Kateřina, světle zelené, M/L;426;8
 12795;8595680543401;Kojicí tílko Kateřina, světle zelené, S/M;426;9
 13062;8595680545283;Kojicí tílko Kateřina, světle zelené, XS/S;426;24
@@ -2137,7 +2139,7 @@ product id;EAN;name;price in CZK;# on stock
 14287;8595680548796;Dámské šaty Amálie, krátký rukáv, cyklámen XS/S;740;15
 14288;8595680548772;Dámské šaty Amálie, krátký rukáv, cyklámen M/L;740;8
 14289;8595680548765;Dámské šaty Amálie, krátký rukáv, cyklámen L/XL;740;7
-14292;8595680548710;Dámské šaty Amálie, krátký rukáv, černé, L/XL;740;6
+14292;8595680548710;Dámské šaty Amálie, krátký rukáv, černé, L/XL;740;7
 14293;8595680548727;Dámské šaty Amálie, krátký rukáv, černé, M/L;740;4
 14294;8595680548734;Dámské šaty Amálie, krátký rukáv, černé, S/M;740;10
 14295;8595680548741;Dámské šaty Amálie, krátký rukáv, černé, XS/S;740;17
@@ -2195,7 +2197,7 @@ product id;EAN;name;price in CZK;# on stock
 14363;8595680549175;Ergonomické rostoucí nosítko JONÁŠ NEW, šátkovina, modré;3390;5
 14364;8595680549199;Ergonomické rostoucí nosítko JONÁŠ NEW, šátkovina, smaragdově zelené;3390;8
 14365;8595680549168;Ergonomické rostoucí nosítko JONÁŠ NEW, šátkovina, malinově růžové;3390;9
-14376;8595680549465;Bavlněná rouška na zavazování pánská červená;40;3
+14376;8595680549465;Bavlněná rouška na zavazování pánská červená;40;2
 14377;8595680549472;Bavlněná rouška na zavazování pánská designová, trojúhelníky;40;65
 14382;8595680549496;Rukavice bavlněné, dámské, černé;109;2
 14385;8595680549533;Rukavice bavlněné, dámské, švestkové;109;2
@@ -2220,7 +2222,7 @@ product id;EAN;name;price in CZK;# on stock
 14437;8595680549984;Těhotenská sukně kolová Olgae, šedý melír, M/L;450;9
 14438;8595680549977;Těhotenská sukně kolová Olga, šedý melír, L/XL;450;4
 14441;8595680549953;Těhotenská sukně kolová Olga, cyklámen, S/M;450;1
-14442;8595680549946;Těhotenská sukně kolová Olgae, cyklámen M/L;450;5
+14442;8595680549946;Těhotenská sukně kolová Olgae, cyklámen M/L;450;6
 14443;8595680549939;Těhotenská sukně kolová Olga, cyklámen, L/XL;450;4
 14446;8595680549908;Těhotenská sukně kolová Olgae, černá, M/L;450;2
 14449;8595680550034;Těhotenská sukně kolová Olga, tmavý tyrkys, S/M;450;5
@@ -2231,9 +2233,9 @@ product id;EAN;name;price in CZK;# on stock
 14455;8595680550447;Dětské kalhoty baggy, lehké, tmavě modré, velikost 80;165;6
 14456;8595680550454;Dětské kalhoty baggy, lehké, tmavě modré, velikost 86;165;2
 14457;8595680550461;Dětské kalhoty baggy, lehké, tmavě modré, velikost 92;165;6
-14458;8595680550478;Dětské kalhoty baggy, lehké, tmavě modré, velikost 98;165;3
-14460;8595680550409;Dětské kalhoty baggy, lehké, tmavě modré, velikost 110;165;19
-14461;8595680550416;Dětské kalhoty baggy, lehké, tmavě modré, velikost 116;165;1
+14458;8595680550478;Dětské kalhoty baggy, lehké, tmavě modré, velikost 98;165;4
+14460;8595680550409;Dětské kalhoty baggy, lehké, tmavě modré, velikost 110;165;20
+14461;8595680550416;Dětské kalhoty baggy, lehké, tmavě modré, velikost 116;165;3
 17058;8595680573811;Dětské kalhoty baggy, lehké, tmavě modré, velikost 122;195;8
 17096;8595680573828;Dětské kalhoty baggy, lehké, tmavě modré, velikost 128;195;10
 14464;8595680550201;Dětské kalhoty baggy, lehké, lososově růžové, velikost 62;165;5
@@ -2315,7 +2317,7 @@ product id;EAN;name;price in CZK;# on stock
 14544;8595680550799;Dětské kalhoty baggy, lehké, čokoládově hnědé, velikost 80;165;1
 14546;8595680550812;Dětské kalhoty baggy, lehké, čokoládově hnědé, velikost 92;165;10
 14547;8595680550829;Dětské kalhoty baggy, lehké, čokoládově hnědé, velikost 98;165;3
-14550;8595680550751;Dětské kalhoty baggy, lehké, čokoládově hnědé, velikost 116;165;3
+14550;8595680550751;Dětské kalhoty baggy, lehké, čokoládově hnědé, velikost 116;165;4
 14551;8595680551390;Látková gumička do vlasů, velká, černá;69;1
 14555;8595680551550;Látková gumička do vlasů, velká, tmavě modrá;69;4
 14556;8595680551376;Látková gumička do vlasů, velká, bílá;69;5
@@ -2358,8 +2360,8 @@ product id;EAN;name;price in CZK;# on stock
 14652;8595680552038;Kojenecké body, krátký rukáv, šedý melír, velikost 98;215;1
 14654;8595680552236;Kojenecké body, krátký rukáv, sytě růžové, velikost 56;215;10
 14655;8595680552243;Kojenecké body, krátký rukáv, sytě růžové, velikost 62;215;6
-14656;8595680552250;Kojenecké body, krátký rukáv, sytě růžové, velikost 68;215;5
-14657;8595680552267;Kojenecké body, krátký rukáv, sytě růžové, velikost 74;215;5
+14656;8595680552250;Kojenecké body, krátký rukáv, sytě růžové, velikost 68;215;6
+14657;8595680552267;Kojenecké body, krátký rukáv, sytě růžové, velikost 74;215;6
 14658;8595680552274;Kojenecké body, krátký rukáv, sytě růžové, velikost 80;215;4
 14659;8595680552281;Kojenecké body, krátký rukáv, sytě růžové, velikost 86;215;5
 14660;8595680552298;Kojenecké body, krátký rukáv, sytě růžové, velikost 92;215;4
@@ -2371,7 +2373,7 @@ product id;EAN;name;price in CZK;# on stock
 14667;8595680552724;Kojenecké body, krátký rukáv, tmavý tyrkys, velikost 80;215;6
 14668;8595680552731;Kojenecké body, krátký rukáv, tmavý tyrkys, velikost 86;215;5
 14672;8595680552410;Kojenecké body, krátký rukáv, vzorované černo-růžovo-šedé, velikost 56;215;7
-14673;8595680552427;Kojenecké body, krátký rukáv, vzorované černo-růžovo-šedé, velikost 62;215;5
+14673;8595680552427;Kojenecké body, krátký rukáv, vzorované černo-růžovo-šedé, velikost 62;215;6
 14674;8595680552434;Kojenecké body, krátký rukáv, vzorované černo-růžovo-šedé, velikost 68;215;6
 14675;8595680552441;Kojenecké body, krátký rukáv, vzorované černo-růžovo-šedé, velikost 74;215;6
 14676;8595680552458;Kojenecké body, krátký rukáv, vzorované černo-růžovo-šedé, velikost 80;215;6
@@ -2380,8 +2382,8 @@ product id;EAN;name;price in CZK;# on stock
 14679;8595680552489;Kojenecké body, krátký rukáv, vzorované černo-růžovo-šedé, velikost 98;215;6
 14681;8595680552328;Kojenecké body, krátký rukáv, fialové vzorované, velikost 56;215;6
 14682;8595680552335;Kojenecké body, krátký rukáv, fialové vzorované, velikost 62;215;6
-14683;8595680552342;Kojenecké body, krátký rukáv, fialové vzorované, velikost 68;215;5
-14684;8595680552359;Kojenecké body, krátký rukáv, fialové vzorované, velikost 74;215;5
+14683;8595680552342;Kojenecké body, krátký rukáv, fialové vzorované, velikost 68;215;6
+14684;8595680552359;Kojenecké body, krátký rukáv, fialové vzorované, velikost 74;215;6
 14685;8595680552366;Kojenecké body, krátký rukáv, fialové vzorované, velikost 80;215;5
 14686;8595680552373;Kojenecké body, krátký rukáv, fialové vzorované, velikost 86;215;6
 14687;8595680552380;Kojenecké body, krátký rukáv, fialové vzorované, velikost 92;215;6
@@ -2438,7 +2440,7 @@ product id;EAN;name;price in CZK;# on stock
 14844;8595680553417;Kojicí šaty ELENA, bez rukávů, lososově růžové M/L;680;9
 14845;8595680553400;Kojicí šaty ELENA, bez rukávů, lososově růžové L/XL;680;6
 14846;8595680553431;Kojicí šaty ELENA, bez rukávů, lososově růžové XS/S;680;8
-14848;8595680553226;Kojicí šaty ELENA, bez rukávů, bordo S/M;680;4
+14848;8595680553226;Kojicí šaty ELENA, bez rukávů, bordo S/M;680;5
 14850;8595680553202;Kojicí šaty ELENA, bez rukávů, bordo L/XL;680;3
 14851;8595680553233;Kojicí šaty ELENA, bez rukávů, bordo XS/S;680;8
 14853;8595680553370;Kojicí šaty ELENA, bez rukávů, fialkové S/M;680;4
@@ -2558,7 +2560,7 @@ product id;EAN;name;price in CZK;# on stock
 15890;8595680563263;Dětská softshellová bunda, raketové auťáky, 80;750;2
 15046;8595680556081;Dětská softshellová bunda, roboti, 86;750;1
 15050;8595680556029;Dětská softshellová bunda, roboti, 110;850;2
-15052;8595680556043;Dětská softshellová bunda, roboti, 122;890;1
+15052;8595680556043;Dětská softshellová bunda, roboti, 122;890;2
 15053;8595680556050;Dětská softshellová bunda, roboti, 128;890;4
 15058;8595680555879;Dětská softshellová bunda, pirátské lebky, 92;750;2
 15059;8595680555886;Dětská softshellová bunda, pirátské lebky, 98;800;1
@@ -2656,7 +2658,7 @@ product id;EAN;name;price in CZK;# on stock
 15283;8595680557477;Multifunkční šátek, tunel, nákrčník, tmavý tyrkys, PRO DOSPĚLÉ;109;5
 15285;8595680557323;Multifunkční šátek, tunel, nákrčník, cyklámen, PRO DOSPĚLÉ;109;19
 15286;8595680557354;Multifunkční šátek, tunel, nákrčník, jeans, PRO DOSPĚLÉ;109;18
-15288;8595680557415;Multifunkční šátek, tunel, nákrčník, švestkově fialový, PRO DOSPĚLÉ;109;22
+15288;8595680557415;Multifunkční šátek, tunel, nákrčník, švestkově fialový, PRO DOSPĚLÉ;109;23
 15289;8595680557248;Dámská čepice bavlněná, oboustranná, černá+tmavý tyrkys;199;24
 15294;8595680557200;Dámská čepice, bavlněná, oboustranná, černá+cyklámen;199;17
 15301;8595680557286;Multifunkční šátek, tunel, nákrčník, černý, PRO DĚTI;109;18
@@ -2689,11 +2691,11 @@ product id;EAN;name;price in CZK;# on stock
 15364;8595680557620;Dámská čepice bavlněná, oboustranná, černá+sytě růžová;199;2
 15368;8595680557545;Dámská čepice bavlněná, černá;199;8
 15371;8595680557866;Dámská čepice bavlněná, oboustranná, tmavě šedý melír+tmavý tyrkys;199;3
-15380;8595680557705;Dámská čepice bavlněná, tmavě šedý melír+jeans modrá, L;199;5
+15380;8595680557705;Dámská čepice bavlněná, tmavě šedý melír+jeans modrá, L;199;7
 15384;8595680557781;Dámská čepice bavlněná, oboustranná, tmavě šedý melír+švestkově fialová;199;15
 15388;8595680557828;Dámská čepice bavlněná, oboustranná, tmavě šedý melír+sytě růžová;199;10
 15396;8595680558474;Dětská softshellová bunda, pandy+růžová, 86;750;1
-15397;8595680558481;Dětská softshellová bunda, pandy+růžová, 92;750;1
+15397;8595680558481;Dětská softshellová bunda, pandy+růžová, 92;750;2
 15398;8595680558498;Dětská softshellová bunda, pandy+růžová, 98;800;1
 15400;8595680558412;Dětská softshellová bunda, pandy+růžová, 110;850;4
 15403;8595680558443;Dětská softshellová bunda, pandy+růžová, 128;890;2
@@ -2709,7 +2711,7 @@ product id;EAN;name;price in CZK;# on stock
 15425;8595680558528;Kojenecké body, krátký rukáv, černé 62;215;6
 15426;8595680558535;Kojenecké body, krátký rukáv, černé 68;215;6
 15427;8595680558542;Kojenecké body, krátký rukáv, černé 74;215;6
-15428;8595680558559;Kojenecké body, krátký rukáv, černé 80;215;1
+15428;8595680558559;Kojenecké body, krátký rukáv, černé 80;215;2
 15429;8595680558566;Kojenecké body, krátký rukáv, černé 86;215;3
 15430;8595680558573;Kojenecké body, krátký rukáv, černé 92;215;4
 15431;8595680558580;Kojenecké body, krátký rukáv, černé 98;215;4
@@ -2720,7 +2722,6 @@ product id;EAN;name;price in CZK;# on stock
 15442;8595680558870;Midi sukně dámská i těhotenská Mirka, tmavý tyrkys, S/M;790;3
 15443;8595680558863;Midi sukně dámská i těhotenská Mirka, tmavý tyrkys, M/L;790;1
 15444;8595680558856;Midi sukně dámská i těhotenská Mirka, tmavý tyrkys, L/XL;790;5
-15447;8595680558771;Midi sukně dámská i těhotenská Mirka, cyklámen, S/M;790;1
 15452;8595680558825;Midi sukně dámská i těhotenská Mirka, šedý melír, S/M;790;4
 15453;8595680558818;Midi sukně dámská i těhotenská Mirka, šedý melír, M/L;790;2
 15454;8595680558801;Midi sukně dámská i těhotenská Mirka, šedý melír, L/XL;790;7
@@ -2915,7 +2916,7 @@ product id;EAN;name;price in CZK;# on stock
 15295;8595680557217;Dětská čepice bavlněná, oboustranná, černá+cyklámen, M;189;3
 15296;8595680557224;Dětská čepice bavlněná, oboustranná, černá+cyklámen, S;179;2
 15357;8595680557521;Dětská čepice bavlněná, oboustranná, černá+jeans modrá, M;189;14
-15358;8595680557538;Dětská čepice bavlněná, oboustranná, černá+jeans modrá, S;179;11
+15358;8595680557538;Dětská čepice bavlněná, oboustranná, černá+jeans modrá, S;179;12
 15361;8595680557590;Dětská čepice bavlněná, obuoustranná, černá+švestkově fialová, M;189;10
 15362;8595680557606;Dětská čepice bavlněná, obuoustranná, černá+švestkově fialová, S;179;21
 15366;8595680557644;Dětská čepice bavlněnáá, oboustranná, černá+sytě růžová, S;179;4
@@ -2927,7 +2928,7 @@ product id;EAN;name;price in CZK;# on stock
 15385;8595680557798;Dětská čepice bavlněná, oboustranná, tmavě šedý melír+švestkově fialová, M;189;6
 15386;8595680557804;Dětská čepice bavlněná, oboustranná, tmavě šedý melír+švestkově fialová, S;179;6
 15393;8595680557750;Dětská čepice bavlněná, oboustranná, tmavý+světlý šedý melír, M;189;4
-15394;8595680557767;Dětská čepice bavlněná, oboustranná, tmavý+světlý šedý melír, S;179;5
+15394;8595680557767;Dětská čepice bavlněná, oboustranná, tmavý+světlý šedý melír, S;179;6
 15377;8595680557675;Dětská čepice bavlněná, oboustranná, tmavě šedý melír+cyklámen, M;189;1
 15378;8595680557682;Dětská čepice bavlněná, oboustranná, tmavě šedý melír+cyklámen, S;179;3
 15718;8595680561542;Dámské kalhotky bavlněné, klasický střih, černé, 38;169;1
@@ -3024,13 +3025,13 @@ product id;EAN;name;price in CZK;# on stock
 15841;8595680562884;Kojicí tričko Kateřina, dlouhý rukáv, olivové XS/S;457;9
 15844;8595680562952;Kojicí tričko Kateřina, krátký rukáv, hořčicové L/XL;457;17
 15845;8595680562969;Kojicí tričko Kateřina, krátký rukáv, hořčicové M/L;457;2
-15849;8595680563003;Kojicí tričko Kateřina, krátký rukáv, olivové L/XL;457;8
+15849;8595680563003;Kojicí tričko Kateřina, krátký rukáv, olivové L/XL;457;9
 15850;8595680563010;Kojicí tričko Kateřina, krátký rukáv, olivové M/L;457;12
 15851;8595680563034;Kojicí tričko Kateřina, krátký rukáv, olivové XS/S;457;9
-15853;8595680563072;Kojicí tričko Kateřina, krátký rukáv, starorůžové S/M;457;21
+15853;8595680563072;Kojicí tričko Kateřina, krátký rukáv, starorůžové S/M;457;22
 15854;8595680563058;Kojicí tričko Kateřina, krátký rukáv, starorůžové L/XL;457;38
 15855;8595680563065;Kojicí tričko Kateřina, krátký rukáv, starorůžové M/L;457;27
-15856;8595680563089;Kojicí tričko Kateřina, krátký rukáv, starorůžové XS/S;457;8
+15856;8595680563089;Kojicí tričko Kateřina, krátký rukáv, starorůžové XS/S;457;9
 15858;8595680562778;Kojicí tričko Kateřina, 3/4 rukáv, olivové S/M;457;21
 15859;8595680562754;Kojicí tričko Kateřina, 3/4 rukáv, olivové L/XL;457;25
 15860;8595680562761;Kojicí tričko Kateřina, 3/4 rukáv, olivové M/L;457;25
@@ -3038,14 +3039,14 @@ product id;EAN;name;price in CZK;# on stock
 15863;8595680562822;Kojicí tričko Kateřina, 3/4 rukáv, starorůžové S/M;457;23
 15864;8595680562808;Kojicí tričko Kateřina, 3/4 rukáv, starorůžové L/XL;457;29
 15865;8595680562815;Kojicí tričko Kateřina, 3/4 rukáv, starorůžové M/L;457;17
-15868;8595680562723;Kojicí tričko Kateřina, 3/4 rukáv, hořčicové S/M;457;18
-15869;8595680562709;Kojicí tričko Kateřina, 3/4 rukáv, hořčicové L/XL;457;18
+15868;8595680562723;Kojicí tričko Kateřina, 3/4 rukáv, hořčicové S/M;457;19
+15869;8595680562709;Kojicí tričko Kateřina, 3/4 rukáv, hořčicové L/XL;457;19
 15870;8595680562716;Kojicí tričko Kateřina, 3/4 rukáv, hořčicové M/L;457;30
 15873;8595680563126;Kojicí rolák Kateřina, hořčicový S/M;470;8
 15874;8595680563119;Kojicí rolák Kateřina, hořčicový M/L;470;32
 15875;8595680563102;Kojicí rolák Kateřina, hořčicový L/XL;470;16
-15878;8595680563171;Kojicí rolák Kateřina, olivový S/M;470;12
-15879;8595680563164;Kojicí rolák Kateřina, olivový M/L;470;14
+15878;8595680563171;Kojicí rolák Kateřina, olivový S/M;470;13
+15879;8595680563164;Kojicí rolák Kateřina, olivový M/L;470;15
 15880;8595680563157;Kojicí rolák Kateřina, olivový L/XL;470;17
 15881;8595680563188;Kojicí rolák Kateřina, olivový XS/S;470;3
 15883;8595680563225;Kojicí rolák Kateřina, starorůžový S/M;470;29
@@ -3069,10 +3070,10 @@ product id;EAN;name;price in CZK;# on stock
 15926;8595680564048;Zip 90cm spirálový, černý, oboustranný jezdec;22;157
 15927;8595680563843;Malé zbytky PROSTŘIHY softshellu, 1 kg, Váš mix barev;200
 15929;8595680563935;Zip 65cm kostěný, černá+bronz;15;60
-15932;8595680563461;Nákrčník ze svetroviny, ČERNÝ;190;5
+15932;8595680563461;Nákrčník ze svetroviny, ČERNÝ;190;6
 15943;8595680563553;Dětské softshellové kalhoty s náplety a regulací pasu, růžové 86;483;8
 15944;8595680563560;Dětské softshellové kalhoty s náplety a regulací pasu, růžové 92;483;4
-15945;8595680563577;Dětské softshellové kalhoty s náplety a regulací pasu, růžové 98;483;10
+15945;8595680563577;Dětské softshellové kalhoty s náplety a regulací pasu, růžové 98;483;11
 15946;8595680563492;Dětské softshellové kalhoty s náplety a regulací pasu, růžové 104;483;2
 15947;8595680563508;Dětské softshellové kalhoty s náplety a regulací pasu, růžové 110;483;3
 15948;8595680563515;Dětské softshellové kalhoty s náplety a regulací pasu, růžové 116;540;3
@@ -3123,7 +3124,7 @@ product id;EAN;name;price in CZK;# on stock
 16043;8595680564567;Dámské oversized tričko Darina, tmavý tyrkys M/L;449;6
 16046;8595680565809;Pánské tričko Marek, krátký rukáv, černé S;449;2
 16047;8595680565793;Pánské tričko Marek, krátký rukáv, černé M;449;4
-16048;8595680565786;Pánské tričko Marek, krátký rukáv, černé L;449;2
+16048;8595680565786;Pánské tričko Marek, krátký rukáv, černé L;449;3
 16049;8595680565816;Pánské tričko Marek, krátký rukáv, černé XL;449;5
 16050;8595680565823;Pánské tričko Marek, krátký rukáv, černé XXL;499;3
 16051;8595680565830;Pánské tričko Marek, krátký rukáv, černé XXXL;499;2
@@ -3139,7 +3140,7 @@ product id;EAN;name;price in CZK;# on stock
 16073;8595680565908;Pánské tričko Marek, krátký rukáv, cyklámen XXXL;499;2
 16075;8595680566011;Pánské tričko Marek, krátký rukáv, šedý melír S;449;3
 16076;8595680566004;Pánské tričko Marek, krátký rukáv, šedý melír M;449;3
-16077;8595680565991;Pánské tričko Marek, krátký rukáv, šedý melír L;449;2
+16077;8595680565991;Pánské tričko Marek, krátký rukáv, šedý melír L;449;3
 16078;8595680566028;Pánské tričko Marek, krátký rukáv, šedý melír XL;449;6
 16079;8595680566035;Pánské tričko Marek, krátký rukáv, šedý melír XXL;499;4
 16080;8595680566042;Pánské tričko Marek, krátký rukáv, šedý melír XXXL;499;1
@@ -3190,7 +3191,6 @@ product id;EAN;name;price in CZK;# on stock
 16204;8595680566141;Dětské softshellové kalhoty s náplety a regulací pasu, tyrkysové 110;483;2
 16208;8595680566189;Dětské softshellové kalhoty s náplety a regulací pasu, tyrkysové 134;540;1
 16283;8595680566967;Dětské softshellové kalhoty s náplety a regulací pasu, tyrkysové 140;540;7
-16210;8595680566332;Dámské oversized tričko Darina, šedá+bílý puntík L/XL;519;1
 16211;8595680566363;Dámské oversized tričko Darina, šedá+bílý puntík XS/S;519;2
 16212;8595680566356;Dámské oversized tričko Darina, šedá+bílý puntík S/M;519;29
 16215;8595680566387;Dámské oversized tričko Darina, šedý melír L/XL;449;4
@@ -3289,16 +3289,16 @@ product id;EAN;name;price in CZK;# on stock
 16563;8595680569517;Jarní/Letní těhotenské softshellové kalhoty Liva, šedý melír, 42 prodloužené;1315;4
 16564;8595680569548;Jarní/Letní těhotenské softshellové kalhoty Liva, šedý melír, 44 prodloužené;1315;6
 16565;8595680569579;Jarní/Letní těhotenské softshellové kalhoty Liva, šedý melír, 46 prodloužené;1315;5
-16567;8595680568824;LEGÍNY dětské, horčicové 86;205;8
-16568;8595680568831;LEGÍNY dětské, hořčicové 92;205;7
-16569;8595680568848;LEGÍNY dětské, hořčicové 98;205;5
-16570;8595680568756;LEGÍNY dětské, hořčicové 104;205;8
-16571;8595680568763;LEGÍNY dětské, hořčicové 110;205;6
-16572;8595680568770;LEGÍNY dětské, hořčicové 116;205;5
-16573;8595680568787;LEGÍNY dětské, hořčicové 122;205;8
-16574;8595680568794;LEGÍNY dětské, hořčicové 128;205;8
-16575;8595680568800;LEGÍNY dětské, hořčicové 134;205;8
-16576;8595680568817;LEGÍNY dětské, hořčicové 140;205;9
+16567;8595680568824;LEGÍNY dětské, horčicové 86;205;9
+16568;8595680568831;LEGÍNY dětské, hořčicové 92;205;8
+16569;8595680568848;LEGÍNY dětské, hořčicové 98;205;6
+16570;8595680568756;LEGÍNY dětské, hořčicové 104;205;9
+16571;8595680568763;LEGÍNY dětské, hořčicové 110;205;7
+16572;8595680568770;LEGÍNY dětské, hořčicové 116;205;6
+16573;8595680568787;LEGÍNY dětské, hořčicové 122;205;9
+16574;8595680568794;LEGÍNY dětské, hořčicové 128;205;9
+16575;8595680568800;LEGÍNY dětské, hořčicové 134;205;9
+16576;8595680568817;LEGÍNY dětské, hořčicové 140;205;10
 16578;8595680569043;LEGÍNY dětské, starorůžové 86;205;10
 16579;8595680569050;LEGÍNY dětské, starorůžové 92;205;15
 16580;8595680569067;LEGÍNY dětské, starorůžové 98;205;11
@@ -3374,7 +3374,7 @@ product id;EAN;name;price in CZK;# on stock
 16786;8595680571145;Dívčí tunika, krátký rukáv, tyrkysová, 140;80;1
 16801;8595680571015;Dívčí tunika, dlouhý rukáv, tyrkysová, 128;80;1
 16813;8595680570926;Rukavice bavlněné, dámské, bílé;109;11
-16816;8595680570940;Rukavice bavlněné, dětské, bílé;109;12
+16816;8595680570940;Rukavice bavlněné, dětské, bílé;109;17
 16817;8595680570957;Rukavice bavlněné, dětské, bílé;109;12
 16819;8595680571527;Jarní/letní dětské softshellové kalhoty, černé 86;483;13
 16820;8595680571534;Jarní/letní dětské softshellové kalhoty, černé 92;483;17
@@ -3388,7 +3388,7 @@ product id;EAN;name;price in CZK;# on stock
 16828;8595680571510;Jarní/letní dětské softshellové kalhoty, černé 140;540;19
 16830;8595680571855;Jarní/letní dětské softshellové kalhoty, šedý melír 86;483;9
 16831;8595680571862;Jarní/letní dětské softshellové kalhoty, šedý melír 92;483;15
-16832;8595680571879;Jarní/letní dětské softshellové kalhoty, šedý melír 98;483;24
+16832;8595680571879;Jarní/letní dětské softshellové kalhoty, šedý melír 98;483;26
 16833;8595680571787;Jarní/letní dětské softshellové kalhoty, šedý melír 104;483;25
 16834;8595680571794;Jarní/letní dětské softshellové kalhoty, šedý melír 110;483;10
 16835;8595680571800;Jarní/letní dětské softshellové kalhoty, šedý melír 116;540;6
@@ -3426,7 +3426,7 @@ product id;EAN;name;price in CZK;# on stock
 16870;8595680571299;Dětské kalhoty baggy, lehké, oranžové-pruhy 104;165;7
 16871;8595680571305;Dětské kalhoty baggy, lehké, oranžové-pruhy 110;165;7
 16883;8595680571916;Dětské kalhoty baggy, lehké, oranžové-pruhy 116;165;9
-16873;8595680571213;Dětské kalhoty baggy, lehké, lentilky na modré 62;205;5
+16873;8595680571213;Dětské kalhoty baggy, lehké, lentilky na modré 62;205;6
 16874;8595680571220;Dětské kalhoty baggy, lehké, lentilky na modré 68;205;6
 16875;8595680571237;Dětské kalhoty baggy, lehké, lentilky na modré 74;205;8
 16876;8595680571244;Dětské kalhoty baggy, lehké, lentilky na modré 80;205;9
@@ -3487,11 +3487,11 @@ product id;EAN;name;price in CZK;# on stock
 16950;8595680572500;Zip 80cm spirálový, červený;30;7
 16951;8595680572418;Zip 65cm spirálový, černý;15;4
 16954;8595680572562;Látková plena PASTELKA, bavlněná, UNI velikost, 2. jakost č. 626;250;1
-16961;8595680572685;Softshellová nosící bunda Alva, černá a trojúhelníky, S;2540
+16961;8595680572685;Softshellová nosící bunda Alva, černá a trojúhelníky, S;2540;2
 16964;8595680572692;Softshellová nosící bunda Alva, černá a trojúhelníky, XL;2540;1
 16968;8595680572807;Softshellová nosící bunda Alva, fuchsiová a trojúhelníky, S;2540;1
 16971;8595680572814;Softshellová nosící bunda Alva, fuchsiová a trojúhelníky, XL;2540;1
-16974;8595680572913;Softshellová nosící bunda Alva, petrolejová a mandaly, S;2540;22
+16974;8595680572913;Softshellová nosící bunda Alva, petrolejová a mandaly, S;2540;5
 16975;8595680572906;Softshellová nosící bunda Alva, petrolejová a mandaly, M;2540;1
 16976;8595680572890;Softshellová nosící bunda Alva, petrolejová a mandaly, L;2540;4
 16977;8595680572920;Softshellová nosící bunda Alva, petrolejová a mandaly, XL;2540;1
@@ -3511,7 +3511,7 @@ product id;EAN;name;price in CZK;# on stock
 17019;8595680573217;Dámský softshellový kabát, S, 2. jakost č. 633;1290;1
 17020;8595680573941;Bio-dámské tričko, dl. rukáv, hnedé, M;200;5
 17021;8595680573958;Bio-dámské tričko, dl. rukáv, hnedé, XS;200;9
-17023;8595680573910;Bio-dámské tričko, dl. rukáv, fialové, M;200;4
+17023;8595680573910;Bio-dámské tričko, dl. rukáv, fialové, M;200;5
 17024;8595680573934;Bio-dámské tričko, dl. rukáv, hnědé-kytka, XS;200;3
 17025;8595680573965;Bio-dámské tričko, dl. rukáv, zelené-kytka, XS;200;1
 17031;8595680573897;Bio-kojenecké body, kr. rukáv, béžové, 74;150;1
@@ -3520,25 +3520,25 @@ product id;EAN;name;price in CZK;# on stock
 17036;8595680574078;Bio-kojenecké tepláky, fialové, 62;80;1
 17038;8595680574047;Bio-kojenecké tepláky, béžové, 56;80;1
 17043;8595680574085;Bio-kojenecké tepláky, hnědé, 56;80;2
-17044;8595680574092;Bio-kojenecké tepláky, petrolejové, 56;80;1
+17044;8595680574092;Bio-kojenecké tepláky, petrolejové, 56;80;2
 17045;8595680574009;Bio-šátek na hlavu, béžový, S;80;2
 17046;8595680574016;Bio-šátek na hlavu, hnědý, S;80;1
 17047;8595680574023;Bio-šátek na hlavu, zelený, S;80;4
 17048;8595680573996;Bio-dětské tričko, dl. rukáv, fialové, 62;80;3
-17054;8595680573972;Bio-kojenecký kabátek, fialový, 56;150
+17054;8595680573972;Bio-kojenecký kabátek, fialový, 56;150;1
 17055;8595680573989;Bio-kojenecký kabátek, petrolejový, 56;150;1
 17056;8595680573224;Dětská softshellová bunda, 122, 2. jakost č. 634;690;1
 17057;8595680573231;Dámské tričko,dl. rukáv, fialové, S, 2. jakost č. 635;150;1
 17118;8595680573286;Těhotenské turecké kalhoty, M/L, 2. jakost č. 640;414;1
+17120;8595680573309;Těhotenská a kojicí noční košile Lucie, S/M, 2. jakost č. 642;367;1
 17127;8595680573378;Těhotenská a kojicí noční košile Lucie, S/M, 2. jakost č. 649;374;1
 17128;None;Látková plena PASTELKA, bavlněná, UNI velikost, 2. jakost č. 650;250;1
 17129;8595680573385;Kojenecké zavinovací body, 74, 2. jakost č. 651;165;1
 17131;8595680573392;Těhotenská a nosící bunda Stella 2, L/XL, 2. jakost č. 652;990;1
 17109;8595680574115;Dámské kalhoty s knoflíky Karin, černé, 38;1290;6
 17110;8595680574122;Dámské kalhoty s knoflíky Karin, černé, 40;1290;4
-17111;8595680574139;Dámské kalhoty s knoflíky Karin, černé, 42;1290;1
+17111;8595680574139;Dámské kalhoty s knoflíky Karin, černé, 42;1290;2
 17112;8595680574146;Dámské kalhoty s knoflíky Karin, černé, 44;1290;4
-17113;8595680574153;Dámské kalhoty s knoflíky Karin, černé, 46;1290;1
 3761;8595680574405;Lněné dámské kalhoty, i pro těhotné, světlý melír, vel.S, vnitřní délka nohavice 82cm;630;1
 3773;8595680574429;Lněné dámské kalhoty, i pro těhotné, světlý melír, vel.XXL, vnitřní délka nohavice 82cm;630;5
 3212;8595680574269;Lněné dámské kalhoty, i pro těhotné, černé, vel. S, vnitřní délka nohavice 82cm;630;2
