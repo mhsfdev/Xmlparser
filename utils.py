@@ -1,3 +1,7 @@
+import csv
+from time import asctime
+
+
 def print_dict(dicto,n=30):
     counter = 0
     for key, value in dicto.items():

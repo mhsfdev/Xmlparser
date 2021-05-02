@@ -72,7 +72,7 @@ for item in myroot.findall('item'):
 
 previous_pull = read_file()
 new_items,run_out_items = compare_pulls(previous_pull, actual_pull)
-write_to_file(actual_pull,'data.csv')
+write_to_file(actual_pull,f'data_{date}.csv')
 write_to_file(error_log,errorlog_name)
 
 print ('new items :', len(new_items)-1)

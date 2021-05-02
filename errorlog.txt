@@ -1,4 +1,4 @@
-log date;Tue Apr 27 14:30:53 2021
+log date;Sun May  2 09:12:29 2021
 14880;missing EAN
 14883;missing EAN
 14885;missing EAN
@@ -85,18 +85,14 @@ log date;Tue Apr 27 14:30:53 2021
 17141;missing EAN
 17142;missing EAN
 17144;missing EAN
-17145;missing EAN
 17148;missing EAN
 17152;missing EAN
 17153;missing EAN
 17156;missing EAN
-17157;missing EAN
 17158;missing EAN
 17159;missing EAN
 17160;missing EAN
 17161;missing EAN
-17163;missing EAN
-17164;missing EAN
 17165;missing EAN
 17167;missing EAN
 17168;missing EAN
@@ -104,6 +100,19 @@ log date;Tue Apr 27 14:30:53 2021
 17170;missing EAN
 17171;missing EAN
 17172;missing EAN
+17175;missing EAN
+17179;missing EAN
+17180;missing EAN
+17182;missing EAN
+17183;missing EAN
+17184;missing EAN
+17186;missing EAN
+17187;missing EAN
+17188;missing EAN
+17189;missing EAN
+17190;missing EAN
+17191;missing EAN
+17192;missing EAN
 11393;not in product feed
 11471;not in product feed
 11777;not in product feed
@@ -194,7 +203,6 @@ log date;Tue Apr 27 14:30:53 2021
 13487;not in product feed
 13488;not in product feed
 13489;not in product feed
-13491;not in product feed
 13492;not in product feed
 13493;not in product feed
 13495;not in product feed
@@ -212,7 +220,7 @@ log date;Tue Apr 27 14:30:53 2021
 13514;not in product feed
 13516;not in product feed
 13518;not in product feed
-13523;not in product feed
+13520;not in product feed
 13525;not in product feed
 13526;not in product feed
 13527;not in product feed
@@ -800,8 +808,8 @@ log date;Tue Apr 27 14:30:53 2021
 14394;not in product feed
 14395;not in product feed
 14400;not in product feed
-14421;not in product feed
 14426;not in product feed
+14432;not in product feed
 14433;not in product feed
 14439;not in product feed
 14440;not in product feed
@@ -995,6 +1003,8 @@ log date;Tue Apr 27 14:30:53 2021
 16566;not in product feed
 16577;not in product feed
 16588;not in product feed
+16601;not in product feed
+16606;not in product feed
 16616;not in product feed
 16627;not in product feed
 16643;not in product feed
@@ -1006,7 +1016,6 @@ log date;Tue Apr 27 14:30:53 2021
 16705;not in product feed
 16706;not in product feed
 16796;not in product feed
-16797;not in product feed
 16815;not in product feed
 16818;not in product feed
 16829;not in product feed
