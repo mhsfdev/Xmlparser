@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 from urllib.request import urlopen 
-from time import asctime
+from datetime import datetime
 
 from utils import log, read_file, write_to_file, compare_pulls, print_dict
 
@@ -13,10 +13,13 @@ myroot = mytree.getroot()
 
 actual_pull = {}
 error_log = {}
+date = datetime.now().strftime("%Y_%m_%d-%I%M%S_%p")
 
+diflog_name = 'difflog_'+date+'.txt'
+errorlog_name = 'errorlog_'+date+'.txt'
 
 actual_pull['product id']=(['EAN;name','price in CZK','# on stock']) # headeer
-error_log['log date'] = [asctime()]
+error_log['log date'] = [date]
 
 """
 refactoring
@@ -70,13 +73,13 @@ for item in myroot.findall('item'):
 previous_pull = read_file()
 new_items,run_out_items = compare_pulls(previous_pull, actual_pull)
 write_to_file(actual_pull,'data.csv')
-write_to_file(error_log,'errorlog.txt')
+write_to_file(error_log,errorlog_name)
 
 print ('new items :', len(new_items)-1)
 print ('missing :', len(run_out_items)-1)
-print ('details in difflog.txt')
+print ('details in :',diflog_name)
 
-write_to_file({**run_out_items,**new_items}, 'difflog.txt')
+write_to_file({**run_out_items,**new_items}, diflog_name)
 
 
 
